@@ -47,8 +47,8 @@
      "ma5": 1.24,
      "rank": 1,
      "on_watchlist": true,
-     "hv9": 36.3,
-     "avgvol": 21098
+     "hv9": 36.4,
+     "avgvol": 21465
     },
     {
      "symbol": "PBPH",
@@ -72,7 +72,7 @@
      "rank": 2,
      "on_watchlist": true,
      "hv9": 26.7,
-     "avgvol": 318798
+     "avgvol": 322109
     },
     {
      "symbol": "PHO",
@@ -95,8 +95,8 @@
      "ma5": 0.31,
      "rank": 3,
      "on_watchlist": true,
-     "hv9": 22.9,
-     "avgvol": 79880
+     "hv9": 22.8,
+     "avgvol": 82261
     },
     {
      "symbol": "FSTA",
@@ -120,7 +120,7 @@
      "rank": 4,
      "on_watchlist": true,
      "hv9": 15.6,
-     "avgvol": 283451
+     "avgvol": 288229
     },
     {
      "symbol": "RSPH",
@@ -144,7 +144,7 @@
      "rank": 5,
      "on_watchlist": true,
      "hv9": 23.2,
-     "avgvol": 1028176
+     "avgvol": 1041169
     },
     {
      "symbol": "VDC",
@@ -168,7 +168,7 @@
      "rank": 6,
      "on_watchlist": true,
      "hv9": 15.7,
-     "avgvol": 198803
+     "avgvol": 200970
     },
     {
      "symbol": "FTXH",
@@ -192,7 +192,7 @@
      "rank": 7,
      "on_watchlist": true,
      "hv9": 29.5,
-     "avgvol": 420684
+     "avgvol": 424671
     },
     {
      "symbol": "CBOX",
@@ -239,8 +239,8 @@
      "ma5": 0.31,
      "rank": 9,
      "on_watchlist": true,
-     "hv9": 22.0,
-     "avgvol": 51856
+     "hv9": 22.1,
+     "avgvol": 52417
     },
     {
      "symbol": "INDA",
@@ -263,8 +263,8 @@
      "ma5": 0.67,
      "rank": 10,
      "on_watchlist": true,
-     "hv9": 16.1,
-     "avgvol": 7215295
+     "hv9": 16.2,
+     "avgvol": 7371033
     },
     {
      "symbol": "IXJ",
@@ -288,7 +288,7 @@
      "rank": 11,
      "on_watchlist": true,
      "hv9": 24.2,
-     "avgvol": 272182
+     "avgvol": 273736
     },
     {
      "symbol": "NOBL",
@@ -311,8 +311,8 @@
      "ma5": 0.34,
      "rank": 12,
      "on_watchlist": true,
-     "hv9": 16.7,
-     "avgvol": 1828233
+     "hv9": 16.8,
+     "avgvol": 1853664
     },
     {
      "symbol": "XLP",
@@ -336,7 +336,7 @@
      "rank": 13,
      "on_watchlist": true,
      "hv9": 16.9,
-     "avgvol": 22460035
+     "avgvol": 22711953
     },
     {
      "symbol": "IAK",
@@ -359,8 +359,8 @@
      "ma5": 0.43,
      "rank": 14,
      "on_watchlist": true,
-     "hv9": 13.5,
-     "avgvol": 161424
+     "hv9": 14.4,
+     "avgvol": 162991
     },
     {
      "symbol": "FLIN",
@@ -383,8 +383,8 @@
      "ma5": 0.63,
      "rank": 15,
      "on_watchlist": true,
-     "hv9": 17.8,
-     "avgvol": 552564
+     "hv9": 17.9,
+     "avgvol": 555948
     },
     {
      "symbol": "IBB",
@@ -408,7 +408,7 @@
      "rank": 16,
      "on_watchlist": true,
      "hv9": 41.9,
-     "avgvol": 2166282
+     "avgvol": 2200125
     },
     {
      "symbol": "XLV",
@@ -432,7 +432,7 @@
      "rank": 17,
      "on_watchlist": true,
      "hv9": 26.0,
-     "avgvol": 13220314
+     "avgvol": 13393004
     },
     {
      "symbol": "FBT",
@@ -456,7 +456,7 @@
      "rank": 18,
      "on_watchlist": true,
      "hv9": 34.2,
-     "avgvol": 84003
+     "avgvol": 86004
     },
     {
      "symbol": "FTCS",
@@ -479,8 +479,8 @@
      "ma5": 0.32,
      "rank": 19,
      "on_watchlist": true,
-     "hv9": 18.2,
-     "avgvol": 314689
+     "hv9": 18.4,
+     "avgvol": 317047
     },
     {
      "symbol": "FHLC",
@@ -503,8 +503,8 @@
      "ma5": 0.43,
      "rank": 20,
      "on_watchlist": true,
-     "hv9": 26.2,
-     "avgvol": 289036
+     "hv9": 26.3,
+     "avgvol": 291933
     },
     {
      "symbol": "VHT",
@@ -528,7 +528,7 @@
      "rank": 21,
      "on_watchlist": true,
      "hv9": 26.1,
-     "avgvol": 265830
+     "avgvol": 272235
     },
     {
      "symbol": "IYH",
@@ -551,8 +551,8 @@
      "ma5": 0.43,
      "rank": 22,
      "on_watchlist": true,
-     "hv9": 26.3,
-     "avgvol": 960762
+     "hv9": 26.4,
+     "avgvol": 973345
     },
     {
      "symbol": "INDY",
@@ -575,8 +575,8 @@
      "ma5": 0.73,
      "rank": 23,
      "on_watchlist": true,
-     "hv9": null,
-     "avgvol": null
+     "hv9": 18.0,
+     "avgvol": 231150
     },
     {
      "symbol": "BOXX",
@@ -600,7 +600,7 @@
      "rank": 24,
      "on_watchlist": true,
      "hv9": 0.3,
-     "avgvol": 3992485
+     "avgvol": 4023124
     },
     {
      "symbol": "PJP",
@@ -623,8 +623,8 @@
      "ma5": 0.43,
      "rank": 25,
      "on_watchlist": true,
-     "hv9": 25.9,
-     "avgvol": 32936
+     "hv9": 25.7,
+     "avgvol": 33496
     },
     {
      "symbol": "HDV",
@@ -647,8 +647,8 @@
      "ma5": 0.3,
      "rank": 26,
      "on_watchlist": true,
-     "hv9": 15.9,
-     "avgvol": 5343079
+     "hv9": 15.7,
+     "avgvol": 5487742
     },
     {
      "symbol": "DIVB",
@@ -671,8 +671,8 @@
      "ma5": 0.5,
      "rank": 27,
      "on_watchlist": true,
-     "hv9": 22.3,
-     "avgvol": 653312
+     "hv9": 22.4,
+     "avgvol": 660187
     },
     {
      "symbol": "SDY",
@@ -695,8 +695,8 @@
      "ma5": 0.32,
      "rank": 28,
      "on_watchlist": true,
-     "hv9": 17.2,
-     "avgvol": 222895
+     "hv9": 17.3,
+     "avgvol": 226698
     },
     {
      "symbol": "KXI",
@@ -719,8 +719,8 @@
      "ma5": 0.3,
      "rank": 29,
      "on_watchlist": true,
-     "hv9": 18.3,
-     "avgvol": 138345
+     "hv9": 18.6,
+     "avgvol": 142072
     },
     {
      "symbol": "EPI",
@@ -744,7 +744,7 @@
      "rank": 30,
      "on_watchlist": true,
      "hv9": 16.9,
-     "avgvol": 574226
+     "avgvol": 582386
     },
     {
      "symbol": "LGLV",
@@ -767,8 +767,8 @@
      "ma5": 0.32,
      "rank": 31,
      "on_watchlist": false,
-     "hv9": 15.3,
-     "avgvol": 26518
+     "hv9": 14.9,
+     "avgvol": 28265
     },
     {
      "symbol": "IHE",
@@ -791,8 +791,8 @@
      "ma5": 0.34,
      "rank": 32,
      "on_watchlist": true,
-     "hv9": 26.0,
-     "avgvol": 282710
+     "hv9": 26.1,
+     "avgvol": 284312
     },
     {
      "symbol": "KIE",
@@ -815,8 +815,8 @@
      "ma5": 0.39,
      "rank": 33,
      "on_watchlist": true,
-     "hv9": 14.8,
-     "avgvol": 1057981
+     "hv9": 15.0,
+     "avgvol": 1076510
     },
     {
      "symbol": "PPH",
@@ -839,8 +839,8 @@
      "ma5": 0.45,
      "rank": 34,
      "on_watchlist": true,
-     "hv9": 28.3,
-     "avgvol": 507595
+     "hv9": 28.2,
+     "avgvol": 509835
     },
     {
      "symbol": "GGOV",
@@ -863,8 +863,8 @@
      "ma5": 0.22,
      "rank": 35,
      "on_watchlist": true,
-     "hv9": 3.9,
-     "avgvol": 656875
+     "hv9": 3.8,
+     "avgvol": 660600
     },
     {
      "symbol": "IYK",
@@ -887,8 +887,8 @@
      "ma5": 0.12,
      "rank": 36,
      "on_watchlist": true,
-     "hv9": 18.9,
-     "avgvol": 518059
+     "hv9": 18.7,
+     "avgvol": 522907
     },
     {
      "symbol": "SCHD",
@@ -912,7 +912,7 @@
      "rank": 37,
      "on_watchlist": true,
      "hv9": 20.8,
-     "avgvol": 26445819
+     "avgvol": 26783095
     },
     {
      "symbol": "SPLV",
@@ -936,7 +936,7 @@
      "rank": 38,
      "on_watchlist": false,
      "hv9": 14.2,
-     "avgvol": 2567474
+     "avgvol": 2587950
     },
     {
      "symbol": "FDV",
@@ -959,8 +959,8 @@
      "ma5": 0.33,
      "rank": 39,
      "on_watchlist": false,
-     "hv9": 17.7,
-     "avgvol": 326986
+     "hv9": 17.4,
+     "avgvol": 331330
     },
     {
      "symbol": "LVHD",
@@ -983,8 +983,8 @@
      "ma5": 0.3,
      "rank": 40,
      "on_watchlist": false,
-     "hv9": 15.1,
-     "avgvol": 77461
+     "hv9": 15.3,
+     "avgvol": 78598
     },
     {
      "symbol": "FVD",
@@ -1008,7 +1008,7 @@
      "rank": 41,
      "on_watchlist": false,
      "hv9": 15.3,
-     "avgvol": 582278
+     "avgvol": 604308
     },
     {
      "symbol": "DSTL",
@@ -1032,7 +1032,7 @@
      "rank": 42,
      "on_watchlist": false,
      "hv9": 24.9,
-     "avgvol": 118228
+     "avgvol": 119462
     },
     {
      "symbol": "OUSA",
@@ -1055,8 +1055,8 @@
      "ma5": 0.22,
      "rank": 43,
      "on_watchlist": false,
-     "hv9": 19.7,
-     "avgvol": 14592
+     "hv9": 19.8,
+     "avgvol": 14917
     },
     {
      "symbol": "IHAK",
@@ -1079,8 +1079,8 @@
      "ma5": 0.47,
      "rank": 44,
      "on_watchlist": true,
-     "hv9": 50.2,
-     "avgvol": 303319
+     "hv9": 50.3,
+     "avgvol": 306794
     },
     {
      "symbol": "ONEY",
@@ -1103,8 +1103,8 @@
      "ma5": 0.29,
      "rank": 45,
      "on_watchlist": false,
-     "hv9": 18.8,
-     "avgvol": 16405
+     "hv9": 18.7,
+     "avgvol": 16504
     },
     {
      "symbol": "QVAL",
@@ -1127,8 +1127,8 @@
      "ma5": 0.32,
      "rank": 46,
      "on_watchlist": true,
-     "hv9": 22.5,
-     "avgvol": 113861
+     "hv9": 22.8,
+     "avgvol": 114621
     },
     {
      "symbol": "KNG",
@@ -1151,8 +1151,8 @@
      "ma5": 0.16,
      "rank": 47,
      "on_watchlist": false,
-     "hv9": 15.7,
-     "avgvol": 499258
+     "hv9": 15.9,
+     "avgvol": 509194
     },
     {
      "symbol": "CAOS",
@@ -1176,7 +1176,7 @@
      "rank": 48,
      "on_watchlist": true,
      "hv9": 14.0,
-     "avgvol": 131004
+     "avgvol": 132475
     },
     {
      "symbol": "MOAT",
@@ -1199,8 +1199,8 @@
      "ma5": 0.06,
      "rank": 49,
      "on_watchlist": true,
-     "hv9": 25.2,
-     "avgvol": 394766
+     "hv9": 25.3,
+     "avgvol": 409905
     },
     {
      "symbol": "BGFI",
@@ -1223,8 +1223,8 @@
      "ma5": 0.26,
      "rank": 50,
      "on_watchlist": false,
-     "hv9": 4.0,
-     "avgvol": 65728
+     "hv9": 3.9,
+     "avgvol": 67058
     }
    ],
    "cols": [
@@ -1474,8 +1474,8 @@
      "ma5": 0.4,
      "rank": 1,
      "on_watchlist": true,
-     "hv9": 17.8,
-     "avgvol": 6994
+     "hv9": 17.0,
+     "avgvol": 7214
     },
     {
      "symbol": "ZUT.TO",
@@ -1498,8 +1498,8 @@
      "ma5": 0.15,
      "rank": 2,
      "on_watchlist": true,
-     "hv9": 9.0,
-     "avgvol": 37701
+     "hv9": 8.8,
+     "avgvol": 38859
     },
     {
      "symbol": "XUT.TO",
@@ -1522,8 +1522,8 @@
      "ma5": 0.18,
      "rank": 3,
      "on_watchlist": true,
-     "hv9": 8.8,
-     "avgvol": 717898
+     "hv9": 8.4,
+     "avgvol": 753907
     },
     {
      "symbol": "XHU.TO",
@@ -1547,7 +1547,7 @@
      "rank": 4,
      "on_watchlist": true,
      "hv9": 11.5,
-     "avgvol": 7391
+     "avgvol": 7402
     },
     {
      "symbol": "CQLU.NE",
@@ -1594,8 +1594,8 @@
      "ma5": 0.0,
      "rank": 6,
      "on_watchlist": true,
-     "hv9": 19.0,
-     "avgvol": 42182
+     "hv9": 19.3,
+     "avgvol": 43066
     },
     {
      "symbol": "XHC.TO",
@@ -1618,8 +1618,8 @@
      "ma5": 0.42,
      "rank": 7,
      "on_watchlist": true,
-     "hv9": 25.2,
-     "avgvol": 22630
+     "hv9": 25.1,
+     "avgvol": 22696
     },
     {
      "symbol": "ZST-L.TO",
@@ -1643,7 +1643,7 @@
      "rank": 8,
      "on_watchlist": true,
      "hv9": 0.4,
-     "avgvol": 10312
+     "avgvol": 10443
     },
     {
      "symbol": "ZLU.TO",
@@ -1666,8 +1666,8 @@
      "ma5": 0.07,
      "rank": 9,
      "on_watchlist": true,
-     "hv9": 12.0,
-     "avgvol": 14238
+     "hv9": 12.3,
+     "avgvol": 14650
     },
     {
      "symbol": "XST.TO",
@@ -1690,8 +1690,8 @@
      "ma5": 0.22,
      "rank": 10,
      "on_watchlist": true,
-     "hv9": 17.1,
-     "avgvol": 99598
+     "hv9": 16.4,
+     "avgvol": 101633
     },
     {
      "symbol": "HSUV-U.TO",
@@ -1715,7 +1715,7 @@
      "rank": 11,
      "on_watchlist": true,
      "hv9": 0.6,
-     "avgvol": 12086
+     "avgvol": 12126
     },
     {
      "symbol": "LIFE.TO",
@@ -1739,7 +1739,7 @@
      "rank": 12,
      "on_watchlist": true,
      "hv9": 23.0,
-     "avgvol": 24014
+     "avgvol": 24224
     },
     {
      "symbol": "FGEP.TO",
@@ -1762,8 +1762,8 @@
      "ma5": -0.06,
      "rank": 13,
      "on_watchlist": true,
-     "hv9": 15.0,
-     "avgvol": 193542
+     "hv9": 15.2,
+     "avgvol": 195917
     },
     {
      "symbol": "HISA-L.NE",
@@ -1810,8 +1810,8 @@
      "ma5": 0.01,
      "rank": 15,
      "on_watchlist": true,
-     "hv9": 16.8,
-     "avgvol": 24586
+     "hv9": 17.1,
+     "avgvol": 24986
     },
     {
      "symbol": "ZLB.TO",
@@ -1834,8 +1834,8 @@
      "ma5": 0.14,
      "rank": 16,
      "on_watchlist": true,
-     "hv9": 13.1,
-     "avgvol": 47336
+     "hv9": 13.2,
+     "avgvol": 48859
     },
     {
      "symbol": "LMAX.TO",
@@ -1858,8 +1858,8 @@
      "ma5": 0.16,
      "rank": 17,
      "on_watchlist": true,
-     "hv9": 20.4,
-     "avgvol": 25056
+     "hv9": 20.5,
+     "avgvol": 25116
     },
     {
      "symbol": "XDG.TO",
@@ -1882,8 +1882,8 @@
      "ma5": -0.1,
      "rank": 18,
      "on_watchlist": true,
-     "hv9": null,
-     "avgvol": null
+     "hv9": 18.0,
+     "avgvol": 50769
     },
     {
      "symbol": "WSHR.NE",
@@ -1907,7 +1907,7 @@
      "rank": 19,
      "on_watchlist": true,
      "hv9": 7.2,
-     "avgvol": 23434
+     "avgvol": 23509
     },
     {
      "symbol": "DLR.TO",
@@ -1930,8 +1930,8 @@
      "ma5": -0.18,
      "rank": 20,
      "on_watchlist": true,
-     "hv9": 5.5,
-     "avgvol": 1511738
+     "hv9": 5.4,
+     "avgvol": 1519721
     },
     {
      "symbol": "UBIL-U.TO",
@@ -1955,7 +1955,7 @@
      "rank": 21,
      "on_watchlist": false,
      "hv9": 0.2,
-     "avgvol": 35633
+     "avgvol": 36398
     },
     {
      "symbol": "VGG.TO",
@@ -1979,7 +1979,7 @@
      "rank": 22,
      "on_watchlist": true,
      "hv9": 20.3,
-     "avgvol": 16945
+     "avgvol": 17459
     },
     {
      "symbol": "HHL.TO",
@@ -2003,7 +2003,7 @@
      "rank": 23,
      "on_watchlist": true,
      "hv9": 20.6,
-     "avgvol": 256709
+     "avgvol": 258046
     },
     {
      "symbol": "EQL.TO",
@@ -2027,7 +2027,7 @@
      "rank": 24,
      "on_watchlist": true,
      "hv9": 23.8,
-     "avgvol": 136758
+     "avgvol": 140378
     },
     {
      "symbol": "PSU-U.TO",
@@ -2051,7 +2051,7 @@
      "rank": 25,
      "on_watchlist": true,
      "hv9": 0.2,
-     "avgvol": 25965
+     "avgvol": 27874
     },
     {
      "symbol": "FCIL.NE",
@@ -2099,7 +2099,7 @@
      "rank": 27,
      "on_watchlist": true,
      "hv9": 0.3,
-     "avgvol": 127289
+     "avgvol": 128691
     },
     {
      "symbol": "HSAV.TO",
@@ -2123,7 +2123,7 @@
      "rank": 28,
      "on_watchlist": true,
      "hv9": 1.5,
-     "avgvol": 40622
+     "avgvol": 40881
     },
     {
      "symbol": "CASH.TO",
@@ -2147,7 +2147,7 @@
      "rank": 29,
      "on_watchlist": true,
      "hv9": 0.1,
-     "avgvol": 429071
+     "avgvol": 433287
     },
     {
      "symbol": "MNY.TO",
@@ -2171,7 +2171,7 @@
      "rank": 30,
      "on_watchlist": false,
      "hv9": 0.1,
-     "avgvol": 34718
+     "avgvol": 37653
     },
     {
      "symbol": "HBB.TO",
@@ -2195,7 +2195,7 @@
      "rank": 31,
      "on_watchlist": false,
      "hv9": 5.9,
-     "avgvol": 16578
+     "avgvol": 16687
     },
     {
      "symbol": "ZMMK.TO",
@@ -2219,7 +2219,7 @@
      "rank": 32,
      "on_watchlist": false,
      "hv9": 0.2,
-     "avgvol": 333166
+     "avgvol": 337859
     },
     {
      "symbol": "FCGS.NE",
@@ -2243,7 +2243,7 @@
      "rank": 33,
      "on_watchlist": false,
      "hv9": 10.1,
-     "avgvol": 164342
+     "avgvol": 167188
     },
     {
      "symbol": "CDZ.TO",
@@ -2267,7 +2267,7 @@
      "rank": 34,
      "on_watchlist": true,
      "hv9": 12.9,
-     "avgvol": 16423
+     "avgvol": 17247
     },
     {
      "symbol": "CBIL.TO",
@@ -2290,8 +2290,8 @@
      "ma5": 0.0,
      "rank": 35,
      "on_watchlist": false,
-     "hv9": 0.2,
-     "avgvol": 233572
+     "hv9": 0.3,
+     "avgvol": 238072
     },
     {
      "symbol": "UMAX.TO",
@@ -2314,8 +2314,8 @@
      "ma5": 0.31,
      "rank": 36,
      "on_watchlist": true,
-     "hv9": 9.0,
-     "avgvol": 560262
+     "hv9": 8.9,
+     "avgvol": 563559
     },
     {
      "symbol": "DGGB.TO",
@@ -2363,7 +2363,7 @@
      "rank": 38,
      "on_watchlist": false,
      "hv9": 0.4,
-     "avgvol": 205103
+     "avgvol": 207991
     },
     {
      "symbol": "CMVP.TO",
@@ -2386,8 +2386,8 @@
      "ma5": 0.03,
      "rank": 39,
      "on_watchlist": true,
-     "hv9": 16.2,
-     "avgvol": 21762
+     "hv9": 16.8,
+     "avgvol": 22402
     },
     {
      "symbol": "CQLI.NE",
@@ -2435,7 +2435,7 @@
      "rank": 41,
      "on_watchlist": true,
      "hv9": 19.2,
-     "avgvol": 16934
+     "avgvol": 17098
     },
     {
      "symbol": "VGH.TO",
@@ -2459,7 +2459,7 @@
      "rank": 42,
      "on_watchlist": false,
      "hv9": 22.6,
-     "avgvol": 12293
+     "avgvol": 12393
     },
     {
      "symbol": "RING.TO",
@@ -2482,8 +2482,8 @@
      "ma5": 1.21,
      "rank": 43,
      "on_watchlist": true,
-     "hv9": 41.4,
-     "avgvol": 1735179
+     "hv9": 42.1,
+     "avgvol": 1767029
     },
     {
      "symbol": "DLR-U.TO",
@@ -2531,7 +2531,7 @@
      "rank": 45,
      "on_watchlist": true,
      "hv9": 12.0,
-     "avgvol": 270020
+     "avgvol": 274405
     },
     {
      "symbol": "ZUQ.TO",
@@ -2555,7 +2555,7 @@
      "rank": 46,
      "on_watchlist": true,
      "hv9": 29.7,
-     "avgvol": 23686
+     "avgvol": 24161
     },
     {
      "symbol": "XDV.TO",
@@ -2578,8 +2578,8 @@
      "ma5": -0.23,
      "rank": 47,
      "on_watchlist": true,
-     "hv9": 14.3,
-     "avgvol": 34163
+     "hv9": 14.2,
+     "avgvol": 35418
     },
     {
      "symbol": "EQLI.TO",
@@ -2602,8 +2602,8 @@
      "ma5": -0.15,
      "rank": 48,
      "on_watchlist": false,
-     "hv9": 16.0,
-     "avgvol": 33108
+     "hv9": 16.3,
+     "avgvol": 33132
     },
     {
      "symbol": "ZSDB.TO",
@@ -2626,8 +2626,8 @@
      "ma5": 0.03,
      "rank": 49,
      "on_watchlist": false,
-     "hv9": 2.0,
-     "avgvol": 8140
+     "hv9": 1.9,
+     "avgvol": 8290
     },
     {
      "symbol": "ZDB.TO",
@@ -2650,8 +2650,8 @@
      "ma5": 0.16,
      "rank": 50,
      "on_watchlist": false,
-     "hv9": 4.6,
-     "avgvol": 35863
+     "hv9": 4.5,
+     "avgvol": 36179
     }
    ],
    "cols": [
@@ -2892,7 +2892,7 @@
      "chg": 0.3,
      "indices": "SPIADR(144):1,10/11",
      "hv9": 43.9,
-     "avgvol": 3648590
+     "avgvol": 3687936
     },
     {
      "rank": 2,
@@ -2919,8 +2919,8 @@
      "price": 23.02,
      "chg": 1.9,
      "indices": "SPIADR(144):2,11/11",
-     "hv9": 19.0,
-     "avgvol": 3628311
+     "hv9": 19.1,
+     "avgvol": 3670445
     },
     {
      "rank": 4,
@@ -2933,8 +2933,8 @@
      "price": 17.4,
      "chg": -1.6,
      "indices": "RUT(1971):2,7/11",
-     "hv9": 26.4,
-     "avgvol": 2757275
+     "hv9": 27.3,
+     "avgvol": 2798485
     },
     {
      "rank": 5,
@@ -2947,8 +2947,8 @@
      "price": 977.8,
      "chg": -0.9,
      "indices": "NDX100(101):3,11/11 \u00b7 SP500(502):12,5/11",
-     "hv9": 33.4,
-     "avgvol": 859028
+     "hv9": 32.7,
+     "avgvol": 872254
     },
     {
      "rank": 6,
@@ -2961,8 +2961,8 @@
      "price": 54.25,
      "chg": 4.5,
      "indices": "SPIADR(144):3,11/11",
-     "hv9": 62.5,
-     "avgvol": 4508859
+     "hv9": 63.1,
+     "avgvol": 4648868
     },
     {
      "rank": 7,
@@ -2975,8 +2975,8 @@
      "price": 234.18,
      "chg": 2.3,
      "indices": "SP400(399):3,7/11 \u00b7 RMC(817):5,6/11",
-     "hv9": 58.2,
-     "avgvol": 1435378
+     "hv9": 57.8,
+     "avgvol": 1476025
     },
     {
      "rank": 8,
@@ -2989,8 +2989,8 @@
      "price": 177.07,
      "chg": -0.7,
      "indices": "NDX100(101):4,11/11 \u00b7 SP500(502):18,3/11",
-     "hv9": 30.1,
-     "avgvol": 5553775
+     "hv9": 29.9,
+     "avgvol": 5618135
     },
     {
      "rank": 9,
@@ -3003,8 +3003,8 @@
      "price": 316.92,
      "chg": 2.0,
      "indices": "NDX100(101):4,10/11 \u00b7 SP500(502):17,5/11",
-     "hv9": 23.8,
-     "avgvol": 2019195
+     "hv9": 24.1,
+     "avgvol": 2045160
     },
     {
      "rank": 10,
@@ -3017,8 +3017,8 @@
      "price": 28.45,
      "chg": 2.4,
      "indices": "SPIADR(144):5,11/11",
-     "hv9": 20.4,
-     "avgvol": 5557372
+     "hv9": 20.7,
+     "avgvol": 5731415
     },
     {
      "rank": 11,
@@ -3032,7 +3032,7 @@
      "chg": -2.1,
      "indices": "SPIADR(144):5,9/11",
      "hv9": 40.9,
-     "avgvol": 3854657
+     "avgvol": 3921312
     },
     {
      "rank": 12,
@@ -3045,8 +3045,8 @@
      "price": 211.38,
      "chg": 2.1,
      "indices": "SP400(399):5,9/11 \u00b7 RMC(817):12,6/11",
-     "hv9": 19.9,
-     "avgvol": 401097
+     "hv9": 20.3,
+     "avgvol": 409937
     },
     {
      "rank": 13,
@@ -3060,7 +3060,7 @@
      "chg": -0.4,
      "indices": "SPIADR(144):6,9/11",
      "hv9": 31.8,
-     "avgvol": 273894
+     "avgvol": 280072
     },
     {
      "rank": 14,
@@ -3073,8 +3073,8 @@
      "price": 482.05,
      "chg": 1.2,
      "indices": "NDX100(101):6,9/11 \u00b7 SP500(502):27,3/11 \u00b7 RMC(817):36,0/11",
-     "hv9": 29.2,
-     "avgvol": 764721
+     "hv9": 29.6,
+     "avgvol": 783728
     },
     {
      "rank": 15,
@@ -3088,7 +3088,7 @@
      "chg": 0.7,
      "indices": "SP500(502):6,7/11 \u00b7 RMC(817):9,4/11",
      "hv9": 17.8,
-     "avgvol": 1937144
+     "avgvol": 1959664
     },
     {
      "rank": 16,
@@ -3101,8 +3101,8 @@
      "price": 80.23,
      "chg": 2.9,
      "indices": "SP400(399):7,9/11 \u00b7 RMC(817):13,8/11",
-     "hv9": 30.6,
-     "avgvol": 742071
+     "hv9": 32.2,
+     "avgvol": 765862
     },
     {
      "rank": 17,
@@ -3115,8 +3115,8 @@
      "price": 45.32,
      "chg": 2.0,
      "indices": "SP400(399):8,8/11 \u00b7 RMC(817):12,5/11",
-     "hv9": null,
-     "avgvol": null
+     "hv9": 24.3,
+     "avgvol": 1644558
     },
     {
      "rank": 18,
@@ -3129,8 +3129,8 @@
      "price": 472.5,
      "chg": -0.3,
      "indices": "NDX100(101):9,9/11 \u00b7 SP500(502):47,0/11",
-     "hv9": 40.3,
-     "avgvol": 2710202
+     "hv9": 40.5,
+     "avgvol": 2753869
     },
     {
      "rank": 19,
@@ -3143,8 +3143,8 @@
      "price": 120.39,
      "chg": 1.1,
      "indices": "SP500(502):9,7/11 \u00b7 RMC(817):10,4/11",
-     "hv9": 18.9,
-     "avgvol": 2114060
+     "hv9": 19.1,
+     "avgvol": 2142864
     },
     {
      "rank": 20,
@@ -3157,8 +3157,8 @@
      "price": 83.35,
      "chg": 1.3,
      "indices": "SPIADR(144):10,9/11",
-     "hv9": 24.0,
-     "avgvol": 545038
+     "hv9": 24.2,
+     "avgvol": 553489
     },
     {
      "rank": 21,
@@ -3172,7 +3172,7 @@
      "chg": -0.1,
      "indices": "NDX100(101):10,7/11 \u00b7 SP500(502):43,0/11",
      "hv9": 12.4,
-     "avgvol": 2590239
+     "avgvol": 2620929
     },
     {
      "rank": 22,
@@ -3185,8 +3185,8 @@
      "price": 111.96,
      "chg": -2.4,
      "indices": "RUT(1971):10,4/11",
-     "hv9": 91.2,
-     "avgvol": 801006
+     "hv9": 92.7,
+     "avgvol": 813462
     },
     {
      "rank": 23,
@@ -3199,8 +3199,8 @@
      "price": 131.94,
      "chg": -0.3,
      "indices": "NDX100(101):11,9/11 \u00b7 SP500(502):50,2/11",
-     "hv9": 17.8,
-     "avgvol": 23614807
+     "hv9": 17.6,
+     "avgvol": 23905080
     },
     {
      "rank": 24,
@@ -3213,8 +3213,8 @@
      "price": 227.82,
      "chg": 0.9,
      "indices": "NDX100(101):11,8/11 \u00b7 SP500(502):48,0/11",
-     "hv9": 16.3,
-     "avgvol": 1761270
+     "hv9": 16.4,
+     "avgvol": 1791962
     },
     {
      "rank": 25,
@@ -3227,8 +3227,8 @@
      "price": 91.37,
      "chg": 0.4,
      "indices": "SP400(399):11,8/11 \u00b7 RUT(1971):40,2/11",
-     "hv9": 12.0,
-     "avgvol": 389904
+     "hv9": 11.8,
+     "avgvol": 396126
     },
     {
      "rank": 26,
@@ -3241,8 +3241,8 @@
      "price": 83.25,
      "chg": 0.9,
      "indices": "NDX100(101):11,7/11 \u00b7 SP500(502):55,1/11 \u00b7 RMC(817):97,0/11",
-     "hv9": 24.4,
-     "avgvol": 2916067
+     "hv9": 24.7,
+     "avgvol": 2955709
     },
     {
      "rank": 27,
@@ -3255,8 +3255,8 @@
      "price": 354.64,
      "chg": 0.2,
      "indices": "NDX100(101):11,6/11 \u00b7 SP500(502):63,0/11",
-     "hv9": 18.9,
-     "avgvol": 44547534
+     "hv9": 19.1,
+     "avgvol": 45134223
     },
     {
      "rank": 28,
@@ -3269,8 +3269,8 @@
      "price": 161.36,
      "chg": 2.2,
      "indices": "SPIADR(144):12,10/11",
-     "hv9": 21.9,
-     "avgvol": 241001
+     "hv9": 22.3,
+     "avgvol": 245334
     },
     {
      "rank": 29,
@@ -3283,8 +3283,8 @@
      "price": 101.77,
      "chg": 1.4,
      "indices": "SPIADR(144):12,9/11",
-     "hv9": 24.6,
-     "avgvol": 958944
+     "hv9": 24.7,
+     "avgvol": 970333
     },
     {
      "rank": 30,
@@ -3297,8 +3297,8 @@
      "price": 37.81,
      "chg": 5.9,
      "indices": "RUT(1971):12,9/11",
-     "hv9": 79.9,
-     "avgvol": 2283195
+     "hv9": 80.6,
+     "avgvol": 2341134
     },
     {
      "rank": 31,
@@ -3312,7 +3312,7 @@
      "chg": 0.1,
      "indices": "NDX100(101):12,6/11 \u00b7 SP500(502):56,0/11",
      "hv9": 23.2,
-     "avgvol": 1440679
+     "avgvol": 1456064
     },
     {
      "rank": 32,
@@ -3326,7 +3326,7 @@
      "chg": 0.6,
      "indices": "NDX100(101):13,7/11",
      "hv9": 18.2,
-     "avgvol": 1601842
+     "avgvol": 1625744
     },
     {
      "rank": 33,
@@ -3339,8 +3339,8 @@
      "price": 173.44,
      "chg": 3.2,
      "indices": "SP400(399):13,6/11 \u00b7 RUT(1971):59,2/11",
-     "hv9": 108.7,
-     "avgvol": 1529793
+     "hv9": 110.1,
+     "avgvol": 1588047
     },
     {
      "rank": 34,
@@ -3353,8 +3353,8 @@
      "price": 14.2,
      "chg": 2.3,
      "indices": "RUT(1971):13,6/11",
-     "hv9": 56.7,
-     "avgvol": 1562294
+     "hv9": 56.2,
+     "avgvol": 1588349
     },
     {
      "rank": 35,
@@ -3367,8 +3367,8 @@
      "price": 192.92,
      "chg": 1.6,
      "indices": "SP500(502):13,5/11 \u00b7 RMC(817):35,2/11",
-     "hv9": 25.6,
-     "avgvol": 695860
+     "hv9": 25.0,
+     "avgvol": 710113
     },
     {
      "rank": 36,
@@ -3381,8 +3381,8 @@
      "price": 278.64,
      "chg": 1.5,
      "indices": "SP400(399):13,4/11 \u00b7 RMC(817):28,2/11",
-     "hv9": 20.8,
-     "avgvol": 510706
+     "hv9": 20.2,
+     "avgvol": 525155
     },
     {
      "rank": 37,
@@ -3395,8 +3395,8 @@
      "price": 215.29,
      "chg": 2.5,
      "indices": "SPIADR(144):14,7/11",
-     "hv9": 24.4,
-     "avgvol": 351348
+     "hv9": 24.7,
+     "avgvol": 358163
     },
     {
      "rank": 38,
@@ -3410,7 +3410,7 @@
      "chg": 1.9,
      "indices": "SPIADR(144):14,6/11",
      "hv9": 49.8,
-     "avgvol": 2152386
+     "avgvol": 2188777
     },
     {
      "rank": 39,
@@ -3423,8 +3423,8 @@
      "price": 223.51,
      "chg": -1.7,
      "indices": "SP500(502):14,5/11 \u00b7 RMC(817):20,5/11",
-     "hv9": 78.4,
-     "avgvol": 7830630
+     "hv9": 78.9,
+     "avgvol": 7900188
     },
     {
      "rank": 40,
@@ -3437,8 +3437,8 @@
      "price": 566.87,
      "chg": 0.5,
      "indices": "NDX100(101):15,10/11 \u00b7 SP500(502):74,1/11",
-     "hv9": 39.9,
-     "avgvol": 1262251
+     "hv9": 40.0,
+     "avgvol": 1281805
     },
     {
      "rank": 41,
@@ -3452,7 +3452,7 @@
      "chg": 1.4,
      "indices": "RUT(1971):15,6/11",
      "hv9": 35.2,
-     "avgvol": 892837
+     "avgvol": 903743
     },
     {
      "rank": 42,
@@ -3465,8 +3465,8 @@
      "price": 326.21,
      "chg": 1.1,
      "indices": "SP500(502):15,4/11 \u00b7 RMC(817):18,4/11",
-     "hv9": 12.8,
-     "avgvol": 314581
+     "hv9": 12.7,
+     "avgvol": 323318
     },
     {
      "rank": 43,
@@ -3480,7 +3480,7 @@
      "chg": 0.2,
      "indices": "SP400(399):16,7/11 \u00b7 RMC(817):23,3/11",
      "hv9": 76.0,
-     "avgvol": 7767124
+     "avgvol": 7840460
     },
     {
      "rank": 44,
@@ -3494,7 +3494,7 @@
      "chg": 0.9,
      "indices": "SPIADR(144):16,7/11",
      "hv9": 23.1,
-     "avgvol": 1345794
+     "avgvol": 1363241
     },
     {
      "rank": 45,
@@ -3507,8 +3507,8 @@
      "price": 59.24,
      "chg": 0.0,
      "indices": "SPIADR(144):16,6/11",
-     "hv9": 12.1,
-     "avgvol": 1235045
+     "hv9": 12.2,
+     "avgvol": 1257830
     },
     {
      "rank": 46,
@@ -3521,8 +3521,8 @@
      "price": 45.04,
      "chg": 2.7,
      "indices": "SP400(399):16,5/11 \u00b7 RMC(817):30,2/11",
-     "hv9": 31.8,
-     "avgvol": 1495402
+     "hv9": 32.3,
+     "avgvol": 1536850
     },
     {
      "rank": 47,
@@ -3535,8 +3535,8 @@
      "price": 261.62,
      "chg": 1.8,
      "indices": "RUT(1971):16,5/11",
-     "hv9": 42.4,
-     "avgvol": 810702
+     "hv9": 41.9,
+     "avgvol": 830112
     },
     {
      "rank": 48,
@@ -3549,8 +3549,8 @@
      "price": 174.19,
      "chg": 0.2,
      "indices": "RUT(1971):17,8/11",
-     "hv9": 162.4,
-     "avgvol": 2299600
+     "hv9": 162.2,
+     "avgvol": 2356070
     },
     {
      "rank": 49,
@@ -3564,7 +3564,7 @@
      "chg": 0.2,
      "indices": "SPIADR(144):17,7/11",
      "hv9": 29.8,
-     "avgvol": 210205
+     "avgvol": 212544
     },
     {
      "rank": 50,
@@ -3577,8 +3577,8 @@
      "price": 159.58,
      "chg": 0.2,
      "indices": "SP400(399):17,5/11 \u00b7 RMC(817):31,3/11",
-     "hv9": 39.3,
-     "avgvol": 1039641
+     "hv9": 39.4,
+     "avgvol": 1055632
     }
    ],
    "cols": [
@@ -3764,7 +3764,7 @@
      "chg": 0.5,
      "indices": "TSX60(60):2,11/11 \u00b7 TSX(216):9,10/11",
      "hv9": 21.6,
-     "avgvol": 236484
+     "avgvol": 240740
     },
     {
      "rank": 2,
@@ -3777,8 +3777,8 @@
      "price": 223.43,
      "chg": -0.4,
      "indices": "TSX60(60):2,11/11 \u00b7 TSX(216):9,8/11",
-     "hv9": 22.1,
-     "avgvol": 506349
+     "hv9": 22.0,
+     "avgvol": 512737
     },
     {
      "rank": 3,
@@ -3791,8 +3791,8 @@
      "price": 231.48,
      "chg": 0.7,
      "indices": "TSX(216):2,9/11 \u00b7 XCS(231):4,9/11",
-     "hv9": 21.7,
-     "avgvol": 152540
+     "hv9": 22.7,
+     "avgvol": 158134
     },
     {
      "rank": 4,
@@ -3833,8 +3833,8 @@
      "price": 116.15,
      "chg": -0.3,
      "indices": "TSX60(60):5,11/11 \u00b7 TSX(216):15,7/11",
-     "hv9": 18.3,
-     "avgvol": 312602
+     "hv9": 18.2,
+     "avgvol": 316777
     },
     {
      "rank": 7,
@@ -3847,8 +3847,8 @@
      "price": 26.39,
      "chg": -0.5,
      "indices": "TSXV(141):5,10/11",
-     "hv9": 34.0,
-     "avgvol": 105743
+     "hv9": 34.3,
+     "avgvol": 107208
     },
     {
      "rank": 8,
@@ -3876,7 +3876,7 @@
      "chg": 0.3,
      "indices": "TSX(216):5,9/11 \u00b7 XCS(231):10,9/11",
      "hv9": 25.8,
-     "avgvol": 163743
+     "avgvol": 165600
     },
     {
      "rank": 10,
@@ -3889,8 +3889,8 @@
      "price": 4.15,
      "chg": 0.7,
      "indices": "TSXV(141):6,10/11",
-     "hv9": 26.6,
-     "avgvol": 43808
+     "hv9": 26.1,
+     "avgvol": 44848
     },
     {
      "rank": 11,
@@ -3903,8 +3903,8 @@
      "price": 12.25,
      "chg": 2.3,
      "indices": "XCS(231):6,9/11",
-     "hv9": 39.8,
-     "avgvol": 71845
+     "hv9": 40.2,
+     "avgvol": 73548
     },
     {
      "rank": 12,
@@ -3917,8 +3917,8 @@
      "price": 0.67,
      "chg": 6.3,
      "indices": "TSXV(141):6,9/11",
-     "hv9": 72.2,
-     "avgvol": 1447226
+     "hv9": 76.8,
+     "avgvol": 1448126
     },
     {
      "rank": 13,
@@ -3931,8 +3931,8 @@
      "price": 6.54,
      "chg": 15.6,
      "indices": "TSXV(141):7,9/11",
-     "hv9": 122.9,
-     "avgvol": 142850
+     "hv9": 129.0,
+     "avgvol": 153042
     },
     {
      "rank": 14,
@@ -3945,8 +3945,8 @@
      "price": 12.2,
      "chg": -0.9,
      "indices": "XCS(231):7,7/11 \u00b7 TSX(216):8,7/11",
-     "hv9": 36.8,
-     "avgvol": 671692
+     "hv9": 37.8,
+     "avgvol": 684564
     },
     {
      "rank": 15,
@@ -3959,8 +3959,8 @@
      "price": 72.11,
      "chg": -0.7,
      "indices": "TSX60(60):8,11/11 \u00b7 TSX(216):19,4/11",
-     "hv9": 11.6,
-     "avgvol": 1295308
+     "hv9": 12.3,
+     "avgvol": 1326613
     },
     {
      "rank": 16,
@@ -3973,8 +3973,8 @@
      "price": 104.25,
      "chg": -1.0,
      "indices": "TSX60(60):8,10/11 \u00b7 TSX(216):21,3/11",
-     "hv9": 27.2,
-     "avgvol": 617623
+     "hv9": 26.7,
+     "avgvol": 630956
     },
     {
      "rank": 17,
@@ -3987,8 +3987,8 @@
      "price": 228.33,
      "chg": 1.3,
      "indices": "TSX60(60):8,9/11 \u00b7 TSX(216):22,6/11",
-     "hv9": 21.2,
-     "avgvol": 138083
+     "hv9": 21.5,
+     "avgvol": 142661
     },
     {
      "rank": 18,
@@ -4001,8 +4001,8 @@
      "price": 266.04,
      "chg": 1.4,
      "indices": "TSX60(60):8,8/11 \u00b7 TSX(216):23,4/11",
-     "hv9": 50.0,
-     "avgvol": 522666
+     "hv9": 50.1,
+     "avgvol": 530634
     },
     {
      "rank": 19,
@@ -4015,8 +4015,8 @@
      "price": 118.18,
      "chg": 0.5,
      "indices": "TSX60(60):9,9/11 \u00b7 TSX(216):23,4/11",
-     "hv9": 21.9,
-     "avgvol": 599409
+     "hv9": 22.0,
+     "avgvol": 609514
     },
     {
      "rank": 20,
@@ -4029,8 +4029,8 @@
      "price": 84.26,
      "chg": -0.2,
      "indices": "TSX60(60):9,8/11 \u00b7 TSX(216):19,3/11",
-     "hv9": 12.2,
-     "avgvol": 2375423
+     "hv9": 12.0,
+     "avgvol": 2404248
     },
     {
      "rank": 21,
@@ -4044,7 +4044,7 @@
      "chg": -0.2,
      "indices": "XCS(231):9,6/11",
      "hv9": 27.2,
-     "avgvol": 91510
+     "avgvol": 92784
     },
     {
      "rank": 22,
@@ -4057,8 +4057,8 @@
      "price": null,
      "chg": -1.3,
      "indices": "TSX60(60):10,8/11 \u00b7 TSX(216):24,1/11",
-     "hv9": 18.9,
-     "avgvol": 52455
+     "hv9": 18.6,
+     "avgvol": 52864
     },
     {
      "rank": 23,
@@ -4071,8 +4071,8 @@
      "price": 30.08,
      "chg": 1.9,
      "indices": "TSX(216):10,4/11 \u00b7 XCS(231):18,4/11",
-     "hv9": 26.2,
-     "avgvol": 193060
+     "hv9": 28.7,
+     "avgvol": 198068
     },
     {
      "rank": 24,
@@ -4086,7 +4086,7 @@
      "chg": 0.3,
      "indices": "TSXV(141):11,9/11",
      "hv9": 133.7,
-     "avgvol": 6914
+     "avgvol": 7134
     },
     {
      "rank": 25,
@@ -4113,8 +4113,8 @@
      "price": 18.53,
      "chg": 1.0,
      "indices": "XCS(231):11,5/11",
-     "hv9": 30.8,
-     "avgvol": 77896
+     "hv9": 31.6,
+     "avgvol": 78875
     },
     {
      "rank": 27,
@@ -4127,8 +4127,8 @@
      "price": 0.96,
      "chg": 3.8,
      "indices": "TSXV(141):12,8/11",
-     "hv9": 90.9,
-     "avgvol": 494136
+     "hv9": 92.4,
+     "avgvol": 496286
     },
     {
      "rank": 28,
@@ -4141,8 +4141,8 @@
      "price": 43.49,
      "chg": 4.2,
      "indices": "XCS(231):13,11/11",
-     "hv9": 63.4,
-     "avgvol": 125570
+     "hv9": 62.5,
+     "avgvol": 132680
     },
     {
      "rank": 29,
@@ -4155,8 +4155,8 @@
      "price": 44.82,
      "chg": -1.5,
      "indices": "TSX60(60):13,9/11 \u00b7 TSX(216):27,2/11",
-     "hv9": 19.8,
-     "avgvol": 1032022
+     "hv9": 19.7,
+     "avgvol": 1063852
     },
     {
      "rank": 30,
@@ -4169,8 +4169,8 @@
      "price": 1.19,
      "chg": 1.7,
      "indices": "TSXV(141):13,8/11",
-     "hv9": 135.9,
-     "avgvol": 480842
+     "hv9": 137.7,
+     "avgvol": 481354
     },
     {
      "rank": 31,
@@ -4183,8 +4183,8 @@
      "price": 2.17,
      "chg": 1.4,
      "indices": "TSXV(141):13,8/11",
-     "hv9": 117.2,
-     "avgvol": 334242
+     "hv9": 117.5,
+     "avgvol": 338738
     },
     {
      "rank": 32,
@@ -4197,8 +4197,8 @@
      "price": 178.37,
      "chg": -0.3,
      "indices": "TSX60(60):14,6/11 \u00b7 TSX(216):35,0/11",
-     "hv9": 16.2,
-     "avgvol": 1253727
+     "hv9": 16.5,
+     "avgvol": 1266870
     },
     {
      "rank": 33,
@@ -4211,8 +4211,8 @@
      "price": 3.52,
      "chg": 2.9,
      "indices": "TSXV(141):14,5/11",
-     "hv9": 107.2,
-     "avgvol": 52362
+     "hv9": 105.7,
+     "avgvol": 52402
     },
     {
      "rank": 34,
@@ -4225,8 +4225,8 @@
      "price": 5.25,
      "chg": 5.0,
      "indices": "TSXV(141):14,4/11",
-     "hv9": 96.5,
-     "avgvol": 211661
+     "hv9": 99.3,
+     "avgvol": 212158
     },
     {
      "rank": 35,
@@ -4239,8 +4239,8 @@
      "price": 61.54,
      "chg": 0.1,
      "indices": "TSX(216):14,3/11",
-     "hv9": 23.2,
-     "avgvol": 901996
+     "hv9": 23.6,
+     "avgvol": 908881
     },
     {
      "rank": 36,
@@ -4253,8 +4253,8 @@
      "price": 94.635,
      "chg": -0.2,
      "indices": "TSXV(141):15,7/11",
-     "hv9": 33.1,
-     "avgvol": 52010
+     "hv9": 32.9,
+     "avgvol": 52452
     },
     {
      "rank": 37,
@@ -4268,7 +4268,7 @@
      "chg": 2.7,
      "indices": "XCS(231):15,6/11",
      "hv9": 71.6,
-     "avgvol": 62566
+     "avgvol": 63871
     },
     {
      "rank": 38,
@@ -4281,8 +4281,8 @@
      "price": 73.79,
      "chg": -0.1,
      "indices": "TSX60(60):16,8/11 \u00b7 TSX(216):38,1/11",
-     "hv9": 14.2,
-     "avgvol": 1620791
+     "hv9": 15.0,
+     "avgvol": 1686288
     },
     {
      "rank": 39,
@@ -4296,7 +4296,7 @@
      "chg": -0.4,
      "indices": "TSX60(60):16,7/11 \u00b7 TSX(216):38,1/11",
      "hv9": 24.9,
-     "avgvol": 1030892
+     "avgvol": 1039755
     },
     {
      "rank": 40,
@@ -4309,8 +4309,8 @@
      "price": 23.68,
      "chg": 0.4,
      "indices": "XCS(231):16,4/11 \u00b7 TSX(216):18,5/11",
-     "hv9": 19.0,
-     "avgvol": 349737
+     "hv9": 19.1,
+     "avgvol": 354033
     },
     {
      "rank": 41,
@@ -4323,8 +4323,8 @@
      "price": 0.91,
      "chg": 9.6,
      "indices": "TSXV(141):17,9/11",
-     "hv9": 138.7,
-     "avgvol": 864206
+     "hv9": 134.9,
+     "avgvol": 874392
     },
     {
      "rank": 42,
@@ -4337,8 +4337,8 @@
      "price": 57.48,
      "chg": -0.1,
      "indices": "TSX60(60):17,8/11 \u00b7 TSX(216):45,1/11",
-     "hv9": 12.2,
-     "avgvol": 1840080
+     "hv9": 12.1,
+     "avgvol": 1866494
     },
     {
      "rank": 43,
@@ -4351,8 +4351,8 @@
      "price": 14.21,
      "chg": 0.5,
      "indices": "XCS(231):17,5/11",
-     "hv9": 37.9,
-     "avgvol": 461255
+     "hv9": 37.4,
+     "avgvol": 474634
     },
     {
      "rank": 44,
@@ -4365,8 +4365,8 @@
      "price": 1.515,
      "chg": -1.0,
      "indices": "TSXV(141):17,4/11",
-     "hv9": 45.6,
-     "avgvol": 246894
+     "hv9": 45.1,
+     "avgvol": 248654
     },
     {
      "rank": 45,
@@ -4379,8 +4379,8 @@
      "price": 93.53,
      "chg": -0.5,
      "indices": "TSX60(60):17,4/11 \u00b7 TSX(216):36,0/11",
-     "hv9": 27.4,
-     "avgvol": 1391216
+     "hv9": 27.7,
+     "avgvol": 1403922
     },
     {
      "rank": 46,
@@ -4393,8 +4393,8 @@
      "price": 131.03,
      "chg": -1.1,
      "indices": "TSX60(60):18,6/11 \u00b7 TSX(216):43,0/11",
-     "hv9": 21.3,
-     "avgvol": 1483340
+     "hv9": 21.1,
+     "avgvol": 1514683
     },
     {
      "rank": 47,
@@ -4407,8 +4407,8 @@
      "price": 1.03,
      "chg": -6.4,
      "indices": "TSXV(141):18,6/11",
-     "hv9": 117.1,
-     "avgvol": 931731
+     "hv9": 115.3,
+     "avgvol": 931741
     },
     {
      "rank": 48,
@@ -4421,8 +4421,8 @@
      "price": 1.94,
      "chg": 6.0,
      "indices": "TSXV(141):18,4/11",
-     "hv9": 84.8,
-     "avgvol": 477193
+     "hv9": 103.8,
+     "avgvol": 512899
     },
     {
      "rank": 49,
@@ -4435,8 +4435,8 @@
      "price": 73.85,
      "chg": 1.9,
      "indices": "TSX60(60):19,9/11 \u00b7 TSX(216):46,1/11",
-     "hv9": 25.2,
-     "avgvol": 2005986
+     "hv9": 25.5,
+     "avgvol": 2019970
     },
     {
      "rank": 50,
@@ -4449,8 +4449,8 @@
      "price": 58.59,
      "chg": -1.6,
      "indices": "XCS(231):19,4/11 \u00b7 TSX(216):21,3/11",
-     "hv9": 16.6,
-     "avgvol": 99114
+     "hv9": 16.8,
+     "avgvol": 100314
     }
    ],
    "cols": [
@@ -4632,81 +4632,81 @@
      "rows": [
       {
        "symbol": "ENB.TO",
-       "price": 66.71,
-       "chg": 1.21,
-       "vs_avg": -8.11,
+       "price": 66.72,
+       "chg": 1.23,
+       "vs_avg": -8.1,
        "z": -1.35,
        "high40": 66.47,
-       "vs_high": 0.36,
+       "vs_high": 0.38,
        "name": "Enbridge Inc.",
        "rank": 1,
-       "hv9": 13.6,
-       "avgvol": 13507215
+       "hv9": 13.8,
+       "avgvol": 13551803
       },
       {
        "symbol": "WSP.TO",
-       "price": 189.05,
-       "chg": 2.45,
-       "vs_avg": -3.31,
-       "z": -0.29,
+       "price": 189.84,
+       "chg": 2.88,
+       "vs_avg": -2.91,
+       "z": -0.26,
        "high40": 181.87,
-       "vs_high": 3.95,
+       "vs_high": 4.38,
        "name": "WSP Global Inc.",
        "rank": 2,
-       "hv9": 40.0,
-       "avgvol": 514510
+       "hv9": 40.6,
+       "avgvol": 533209
       },
       {
        "symbol": "BN.TO",
-       "price": 57.38,
-       "chg": 1.92,
-       "vs_avg": -2.15,
-       "z": -0.31,
+       "price": 57.26,
+       "chg": 1.71,
+       "vs_avg": -2.35,
+       "z": -0.34,
        "high40": 51.77,
-       "vs_high": 10.84,
+       "vs_high": 10.6,
        "name": "Brookfield Corporation",
        "rank": 3,
-       "hv9": 33.9,
-       "avgvol": 3136789
+       "hv9": 33.5,
+       "avgvol": 3179065
       },
       {
        "symbol": "BCE.TO",
-       "price": 31.63,
-       "chg": 0.29,
-       "vs_avg": -1.86,
-       "z": -0.27,
+       "price": 31.525,
+       "chg": -0.05,
+       "vs_avg": -2.19,
+       "z": -0.31,
        "high40": 29.13,
-       "vs_high": 8.58,
+       "vs_high": 8.22,
        "name": "BCE Inc.",
        "rank": 4,
-       "hv9": 29.6,
-       "avgvol": 5817930
+       "hv9": 29.8,
+       "avgvol": 5875276
       },
       {
        "symbol": "TRP.TO",
-       "price": 89.16,
-       "chg": 0.81,
-       "vs_avg": -0.43,
-       "z": -0.08,
+       "price": 89.3,
+       "chg": 0.97,
+       "vs_avg": -0.28,
+       "z": -0.05,
        "high40": 82.84,
-       "vs_high": 7.63,
+       "vs_high": 7.8,
        "name": "TC Energy Corporation",
        "rank": 5,
-       "hv9": 11.7,
-       "avgvol": 3010300
+       "hv9": 12.8,
+       "avgvol": 3055518
       },
       {
        "symbol": "TOU.TO",
-       "price": 63.135,
-       "chg": 2.63,
-       "vs_avg": -0.23,
-       "z": -0.06,
+       "price": 63.28,
+       "chg": 2.86,
+       "vs_avg": -0.0,
+       "z": -0.0,
        "high40": 60.92,
-       "vs_high": 3.64,
+       "vs_high": 3.87,
        "name": "Tourmaline Oil Corp.",
        "rank": 6,
-       "hv9": 24.3,
-       "avgvol": 1975018
+       "hv9": 24.6,
+       "avgvol": 1994213
       }
      ]
     },
@@ -4717,237 +4717,263 @@
      "rows": [
       {
        "symbol": "CCA.TO",
-       "price": 56.22,
-       "chg": 1.01,
-       "vs_avg": -9.5,
-       "z": -0.93,
+       "price": 55.97,
+       "chg": 0.56,
+       "vs_avg": -9.9,
+       "z": -0.97,
        "high40": 52.15,
-       "vs_high": 7.8,
+       "vs_high": 7.33,
        "name": "Cogeco Communications Inc.",
        "rank": 1,
        "hv9": 18.1,
-       "avgvol": 243249
+       "avgvol": 244901
       },
       {
        "symbol": "ENB.TO",
-       "price": 66.71,
-       "chg": 1.21,
-       "vs_avg": -8.11,
+       "price": 66.72,
+       "chg": 1.23,
+       "vs_avg": -8.1,
        "z": -1.35,
        "high40": 66.47,
-       "vs_high": 0.36,
+       "vs_high": 0.38,
        "name": "Enbridge Inc.",
        "rank": 2,
-       "hv9": 13.6,
-       "avgvol": 13507215
+       "hv9": 13.8,
+       "avgvol": 13551803
       },
       {
        "symbol": "PBH.TO",
-       "price": 79.26,
-       "chg": 1.56,
-       "vs_avg": -6.4,
-       "z": -0.61,
+       "price": 79.51,
+       "chg": 1.88,
+       "vs_avg": -6.11,
+       "z": -0.58,
        "high40": 71.8,
-       "vs_high": 10.39,
+       "vs_high": 10.74,
        "name": "Premium Brands Holdings Corporation",
        "rank": 3,
-       "hv9": 27.8,
-       "avgvol": 215305
+       "hv9": 28.1,
+       "avgvol": 218001
       },
       {
        "symbol": "BBUC.TO",
-       "price": 40.32,
-       "chg": 0.62,
-       "vs_avg": -5.63,
-       "z": -0.63,
+       "price": 40.19,
+       "chg": 0.3,
+       "vs_avg": -5.93,
+       "z": -0.67,
        "high40": 35.91,
-       "vs_high": 12.28,
+       "vs_high": 11.92,
        "name": "Brookfield Business Corporation",
        "rank": 4,
-       "hv9": 22.2,
-       "avgvol": 109865
+       "hv9": 21.7,
+       "avgvol": 112575
+      },
+      {
+       "symbol": "SIA.TO",
+       "price": 20.59,
+       "chg": 0.24,
+       "vs_avg": -5.35,
+       "z": -0.93,
+       "high40": 20.5,
+       "vs_high": 0.44,
+       "name": "Sienna Senior Living Inc.",
+       "rank": 5,
+       "hv9": 21.5,
+       "avgvol": 498064
       },
       {
        "symbol": "KEY.TO",
-       "price": 52.31,
-       "chg": 2.57,
-       "vs_avg": -4.59,
-       "z": -0.79,
+       "price": 52.46,
+       "chg": 2.86,
+       "vs_avg": -4.32,
+       "z": -0.74,
        "high40": 51.41,
-       "vs_high": 1.75,
+       "vs_high": 2.04,
        "name": "Keyera Corp.",
-       "rank": 5,
-       "hv9": 21.4,
-       "avgvol": 1231793
+       "rank": 6,
+       "hv9": 22.0,
+       "avgvol": 1251733
+      },
+      {
+       "symbol": "LUG.TO",
+       "price": 88.41,
+       "chg": 3.54,
+       "vs_avg": -3.55,
+       "z": -0.31,
+       "high40": 88.08,
+       "vs_high": 0.37,
+       "name": "Lundin Gold Inc.",
+       "rank": 7,
+       "hv9": 64.6,
+       "avgvol": 605449
       },
       {
        "symbol": "BEP-UN.TO",
-       "price": 43.27,
-       "chg": 0.39,
-       "vs_avg": -3.42,
-       "z": -0.49,
+       "price": 43.35,
+       "chg": 0.58,
+       "vs_avg": -3.25,
+       "z": -0.47,
        "high40": 39.79,
-       "vs_high": 8.75,
+       "vs_high": 8.95,
        "name": "Brookfield Renewable Partners L.P.",
-       "rank": 6,
+       "rank": 8,
        "hv9": 25.1,
-       "avgvol": 319158
+       "avgvol": 326416
+      },
+      {
+       "symbol": "VNP.TO",
+       "price": 31.9,
+       "chg": 7.44,
+       "vs_avg": -3.13,
+       "z": -0.19,
+       "high40": 31.88,
+       "vs_high": 0.06,
+       "name": "5N Plus Inc.",
+       "rank": 9,
+       "hv9": 82.6,
+       "avgvol": 491226
       },
       {
        "symbol": "WSP.TO",
-       "price": 189.05,
-       "chg": 2.45,
-       "vs_avg": -3.31,
-       "z": -0.29,
+       "price": 189.84,
+       "chg": 2.88,
+       "vs_avg": -2.91,
+       "z": -0.26,
        "high40": 181.87,
-       "vs_high": 3.95,
+       "vs_high": 4.38,
        "name": "WSP Global Inc.",
-       "rank": 7,
-       "hv9": 40.0,
-       "avgvol": 514510
-      },
-      {
-       "symbol": "CIGI.TO",
-       "price": 135.325,
-       "chg": 2.29,
-       "vs_avg": -3.14,
-       "z": -0.39,
-       "high40": 128.46,
-       "vs_high": 5.34,
-       "name": "Colliers International Group Inc.",
-       "rank": 8,
-       "hv9": 33.8,
-       "avgvol": 105755
+       "rank": 10,
+       "hv9": 40.6,
+       "avgvol": 533209
       },
       {
        "symbol": "BEI-UN.TO",
-       "price": 62.18,
-       "chg": 0.31,
-       "vs_avg": -3.0,
-       "z": -0.87,
+       "price": 62.25,
+       "chg": 0.42,
+       "vs_avg": -2.89,
+       "z": -0.84,
        "high40": 61.53,
-       "vs_high": 1.06,
+       "vs_high": 1.17,
        "name": "Boardwalk Real Estate Investment Trust",
-       "rank": 9,
+       "rank": 11,
        "hv9": 16.0,
-       "avgvol": 148914
+       "avgvol": 153752
+      },
+      {
+       "symbol": "CIGI.TO",
+       "price": 135.89,
+       "chg": 2.71,
+       "vs_avg": -2.74,
+       "z": -0.34,
+       "high40": 128.46,
+       "vs_high": 5.78,
+       "name": "Colliers International Group Inc.",
+       "rank": 12,
+       "hv9": 34.5,
+       "avgvol": 107761
       },
       {
        "symbol": "PEY.TO",
-       "price": 24.67,
-       "chg": 2.11,
-       "vs_avg": -2.46,
-       "z": -0.53,
+       "price": 24.62,
+       "chg": 1.9,
+       "vs_avg": -2.66,
+       "z": -0.57,
        "high40": 23.17,
-       "vs_high": 6.47,
+       "vs_high": 6.26,
        "name": "Peyto Exploration & Development Corp.",
-       "rank": 10,
-       "hv9": 28.3,
-       "avgvol": 968083
+       "rank": 13,
+       "hv9": 27.8,
+       "avgvol": 984310
       },
       {
        "symbol": "BN.TO",
-       "price": 57.38,
-       "chg": 1.92,
-       "vs_avg": -2.15,
-       "z": -0.31,
+       "price": 57.26,
+       "chg": 1.71,
+       "vs_avg": -2.35,
+       "z": -0.34,
        "high40": 51.77,
-       "vs_high": 10.84,
+       "vs_high": 10.6,
        "name": "Brookfield Corporation",
-       "rank": 11,
-       "hv9": 33.9,
-       "avgvol": 3136789
+       "rank": 14,
+       "hv9": 33.5,
+       "avgvol": 3179065
       },
       {
        "symbol": "DIR-UN.TO",
-       "price": 13.18,
-       "chg": 0.76,
-       "vs_avg": -1.98,
-       "z": -0.41,
+       "price": 13.15,
+       "chg": 0.54,
+       "vs_avg": -2.21,
+       "z": -0.45,
        "high40": 12.87,
-       "vs_high": 2.41,
+       "vs_high": 2.18,
        "name": "Dream Industrial Real Estate Investment Trust",
-       "rank": 12,
+       "rank": 15,
        "hv9": 18.5,
-       "avgvol": 628120
-      },
-      {
-       "symbol": "CPX.TO",
-       "price": 64.6,
-       "chg": 0.39,
-       "vs_avg": -1.94,
-       "z": -0.32,
-       "high40": 62.02,
-       "vs_high": 4.16,
-       "name": "Capital Power Corporation",
-       "rank": 13,
-       "hv9": 28.9,
-       "avgvol": 469428
+       "avgvol": 638106
       },
       {
        "symbol": "BCE.TO",
-       "price": 31.63,
-       "chg": 0.29,
-       "vs_avg": -1.86,
-       "z": -0.27,
+       "price": 31.525,
+       "chg": -0.05,
+       "vs_avg": -2.19,
+       "z": -0.31,
        "high40": 29.13,
-       "vs_high": 8.58,
+       "vs_high": 8.22,
        "name": "BCE Inc.",
-       "rank": 14,
-       "hv9": 29.6,
-       "avgvol": 5817930
+       "rank": 16,
+       "hv9": 29.8,
+       "avgvol": 5875276
+      },
+      {
+       "symbol": "CPX.TO",
+       "price": 64.77,
+       "chg": 0.65,
+       "vs_avg": -1.69,
+       "z": -0.27,
+       "high40": 62.02,
+       "vs_high": 4.43,
+       "name": "Capital Power Corporation",
+       "rank": 17,
+       "hv9": 29.1,
+       "avgvol": 476568
       },
       {
        "symbol": "TRP.TO",
-       "price": 89.16,
-       "chg": 0.81,
-       "vs_avg": -0.43,
-       "z": -0.08,
-       "high40": 82.84,
-       "vs_high": 7.63,
-       "name": "TC Energy Corporation",
-       "rank": 15,
-       "hv9": 11.7,
-       "avgvol": 3010300
-      },
-      {
-       "symbol": "RCH.TO",
-       "price": 38.42,
-       "chg": -0.21,
-       "vs_avg": -0.36,
+       "price": 89.3,
+       "chg": 0.97,
+       "vs_avg": -0.28,
        "z": -0.05,
-       "high40": 36.68,
-       "vs_high": 4.74,
-       "name": "Richelieu Hardware Ltd.",
-       "rank": 16,
-       "hv9": 24.8,
-       "avgvol": 81859
+       "high40": 82.84,
+       "vs_high": 7.8,
+       "name": "TC Energy Corporation",
+       "rank": 18,
+       "hv9": 12.8,
+       "avgvol": 3055518
       },
       {
        "symbol": "AQN.TO",
-       "price": 8.17,
-       "chg": -0.85,
-       "vs_avg": -0.3,
-       "z": -0.04,
+       "price": 8.19,
+       "chg": -0.61,
+       "vs_avg": -0.05,
+       "z": -0.01,
        "high40": 7.19,
-       "vs_high": 13.63,
+       "vs_high": 13.91,
        "name": "Algonquin Power & Utilities Corp.",
-       "rank": 17,
-       "hv9": 18.3,
-       "avgvol": 3160280
+       "rank": 19,
+       "hv9": 18.0,
+       "avgvol": 3185318
       },
       {
        "symbol": "TOU.TO",
-       "price": 63.135,
-       "chg": 2.63,
-       "vs_avg": -0.23,
-       "z": -0.06,
+       "price": 63.28,
+       "chg": 2.86,
+       "vs_avg": -0.0,
+       "z": -0.0,
        "high40": 60.92,
-       "vs_high": 3.64,
+       "vs_high": 3.87,
        "name": "Tourmaline Oil Corp.",
-       "rank": 18,
-       "hv9": 24.3,
-       "avgvol": 1975018
+       "rank": 20,
+       "hv9": 24.6,
+       "avgvol": 1994213
       }
      ]
     },
@@ -4958,55 +4984,55 @@
      "rows": [
       {
        "symbol": "NKE",
-       "price": 36.695,
-       "chg": 2.64,
-       "vs_avg": -16.03,
+       "price": 36.745,
+       "chg": 2.78,
+       "vs_avg": -15.92,
        "z": -0.93,
        "high40": 35.99,
-       "vs_high": 1.96,
+       "vs_high": 2.1,
        "name": "NIKE, Inc.",
        "rank": 1,
-       "hv9": 66.1,
-       "avgvol": 28442559
+       "hv9": 66.2,
+       "avgvol": 28855282
       },
       {
        "symbol": "AXP",
-       "price": 312.82,
-       "chg": 1.36,
-       "vs_avg": -3.0,
-       "z": -0.61,
+       "price": 313.24,
+       "chg": 1.49,
+       "vs_avg": -2.87,
+       "z": -0.58,
        "high40": 307.19,
-       "vs_high": 1.83,
+       "vs_high": 1.97,
        "name": "American Express Company",
        "rank": 2,
-       "hv9": 23.9,
-       "avgvol": 2700318
+       "hv9": 23.8,
+       "avgvol": 2728364
       },
       {
        "symbol": "HON",
-       "price": 226.025,
-       "chg": 0.54,
-       "vs_avg": -1.47,
-       "z": -0.23,
+       "price": 225.5,
+       "chg": 0.3,
+       "vs_avg": -1.7,
+       "z": -0.27,
        "high40": 211.92,
-       "vs_high": 6.66,
+       "vs_high": 6.41,
        "name": "Honeywell International Inc.",
        "rank": 3,
-       "hv9": 34.8,
-       "avgvol": 2776546
+       "hv9": 34.7,
+       "avgvol": 2815408
       },
       {
        "symbol": "IBM",
-       "price": 243.68,
-       "chg": 3.42,
-       "vs_avg": -0.17,
-       "z": -0.02,
+       "price": 243.87,
+       "chg": 3.5,
+       "vs_avg": -0.09,
+       "z": -0.01,
        "high40": 222.33,
-       "vs_high": 9.6,
+       "vs_high": 9.69,
        "name": "International Business Machines Corporation",
        "rank": 4,
-       "hv9": 43.4,
-       "avgvol": 4245019
+       "hv9": 43.3,
+       "avgvol": 4321782
       }
      ]
     },
@@ -5017,81 +5043,94 @@
      "rows": [
       {
        "symbol": "TMUS",
-       "price": 166.83,
-       "chg": -0.28,
-       "vs_avg": -9.62,
-       "z": -0.96,
+       "price": 166.705,
+       "chg": -0.36,
+       "vs_avg": -9.69,
+       "z": -0.97,
        "high40": 164.62,
-       "vs_high": 1.34,
+       "vs_high": 1.27,
        "name": "T-Mobile US, Inc.",
        "rank": 1,
        "hv9": 19.2,
-       "avgvol": 4546632
+       "avgvol": 4598483
       },
       {
        "symbol": "AXP",
-       "price": 312.82,
-       "chg": 1.36,
-       "vs_avg": -3.0,
-       "z": -0.61,
+       "price": 313.24,
+       "chg": 1.49,
+       "vs_avg": -2.87,
+       "z": -0.58,
        "high40": 307.19,
-       "vs_high": 1.83,
+       "vs_high": 1.97,
        "name": "American Express Company",
        "rank": 2,
-       "hv9": 23.9,
-       "avgvol": 2700318
+       "hv9": 23.8,
+       "avgvol": 2728364
       },
       {
        "symbol": "WFC",
-       "price": 81.11,
-       "chg": -0.1,
-       "vs_avg": -2.29,
-       "z": -0.47,
+       "price": 81.25,
+       "chg": 0.07,
+       "vs_avg": -2.12,
+       "z": -0.44,
        "high40": 80.88,
-       "vs_high": 0.28,
+       "vs_high": 0.46,
        "name": "Wells Fargo & Company",
        "rank": 3,
-       "hv9": 26.1,
-       "avgvol": 10500105
+       "hv9": 26.0,
+       "avgvol": 10705544
+      },
+      {
+       "symbol": "GE",
+       "price": 317.93,
+       "chg": -0.03,
+       "vs_avg": -1.95,
+       "z": -0.24,
+       "high40": 317.91,
+       "vs_high": 0.01,
+       "name": "GE Aerospace",
+       "rank": 4,
+       "hv9": 32.8,
+       "avgvol": 4046860
       },
       {
        "symbol": "NEE",
-       "price": 85.7,
-       "chg": 1.32,
-       "vs_avg": -1.71,
-       "z": -0.28,
+       "price": 85.745,
+       "chg": 1.38,
+       "vs_avg": -1.66,
+       "z": -0.27,
        "high40": 76.5,
-       "vs_high": 12.03,
+       "vs_high": 12.08,
        "name": "NextEra Energy, Inc.",
-       "rank": 4,
-       "hv9": 13.3,
-       "avgvol": 10420209
+       "rank": 5,
+       "hv9": 12.8,
+       "avgvol": 10558629
       },
       {
        "symbol": "PEP",
-       "price": 144.175,
-       "chg": 1.05,
-       "vs_avg": -0.49,
-       "z": -0.07,
+       "price": 144.21,
+       "chg": 1.07,
+       "vs_avg": -0.47,
+       "z": -0.06,
        "high40": 129.98,
-       "vs_high": 10.92,
+       "vs_high": 10.95,
        "name": "PepsiCo, Inc.",
-       "rank": 5,
+       "rank": 6,
        "hv9": 27.5,
-       "avgvol": 9347674
+       "avgvol": 9436148
       },
       {
        "symbol": "IBM",
-       "price": 243.68,
-       "chg": 3.42,
-       "vs_avg": -0.17,
-       "z": -0.02,
+       "price": 243.87,
+       "chg": 3.5,
+       "vs_avg": -0.09,
+       "z": -0.01,
        "high40": 222.33,
-       "vs_high": 9.6,
+       "vs_high": 9.69,
        "name": "International Business Machines Corporation",
-       "rank": 6,
-       "hv9": 43.4,
-       "avgvol": 4245019
+       "rank": 7,
+       "hv9": 43.3,
+       "avgvol": 4321782
       }
      ]
     },
@@ -5102,151 +5141,151 @@
      "rows": [
       {
        "symbol": "TMUS",
-       "price": 166.83,
-       "chg": -0.28,
-       "vs_avg": -9.62,
-       "z": -0.96,
+       "price": 166.705,
+       "chg": -0.36,
+       "vs_avg": -9.69,
+       "z": -0.97,
        "high40": 164.62,
-       "vs_high": 1.34,
+       "vs_high": 1.27,
        "name": "T-Mobile US, Inc.",
        "rank": 1,
        "hv9": 19.2,
-       "avgvol": 4546632
+       "avgvol": 4598483
       },
       {
        "symbol": "CHTR",
-       "price": 145.51,
-       "chg": 7.1,
-       "vs_avg": -8.0,
-       "z": -0.3,
+       "price": 147.405,
+       "chg": 8.49,
+       "vs_avg": -6.81,
+       "z": -0.25,
        "high40": 112.93,
-       "vs_high": 28.85,
+       "vs_high": 30.53,
        "name": "Charter Communications, Inc.",
        "rank": 2,
-       "hv9": 62.1,
-       "avgvol": 2739126
+       "hv9": 66.0,
+       "avgvol": 2799320
       },
       {
        "symbol": "FER",
-       "price": 59.21,
-       "chg": 0.25,
-       "vs_avg": -6.73,
-       "z": -0.66,
+       "price": 59.195,
+       "chg": 0.23,
+       "vs_avg": -6.76,
+       "z": -0.67,
        "high40": 54.33,
-       "vs_high": 8.98,
+       "vs_high": 8.95,
        "name": "Ferrovial N.V.",
        "rank": 3,
-       "hv9": 33.6,
-       "avgvol": 3045830
+       "hv9": 33.5,
+       "avgvol": 3096777
       },
       {
        "symbol": "APP",
-       "price": 379.72,
-       "chg": -0.36,
-       "vs_avg": -5.9,
+       "price": 379.85,
+       "chg": -0.33,
+       "vs_avg": -5.87,
        "z": -0.27,
        "high40": 303.17,
-       "vs_high": 25.25,
+       "vs_high": 25.29,
        "name": "AppLovin Corporation",
        "rank": 4,
        "hv9": 73.4,
-       "avgvol": 3848713
+       "avgvol": 3904598
       },
       {
        "symbol": "NXPI",
-       "price": 240.63,
-       "chg": 0.51,
-       "vs_avg": -3.25,
-       "z": -0.22,
+       "price": 241.36,
+       "chg": 0.82,
+       "vs_avg": -2.96,
+       "z": -0.2,
        "high40": 238.2,
-       "vs_high": 1.02,
+       "vs_high": 1.33,
        "name": "NXP Semiconductors N.V.",
        "rank": 5,
-       "hv9": 73.5,
-       "avgvol": 4692387
-      },
-      {
-       "symbol": "PDD",
-       "price": 87.37,
-       "chg": 0.17,
-       "vs_avg": -1.83,
-       "z": -0.17,
-       "high40": 78.23,
-       "vs_high": 11.68,
-       "name": "PDD Holdings Inc.",
-       "rank": 6,
-       "hv9": 62.3,
-       "avgvol": 10090342
+       "hv9": 74.0,
+       "avgvol": 4773335
       },
       {
        "symbol": "MNST",
-       "price": 42.755,
-       "chg": 1.39,
-       "vs_avg": -1.76,
-       "z": -0.2,
+       "price": 42.645,
+       "chg": 1.13,
+       "vs_avg": -2.02,
+       "z": -0.23,
        "high40": 42.35,
-       "vs_high": 0.96,
+       "vs_high": 0.7,
        "name": "Monster Beverage Corporation",
+       "rank": 6,
+       "hv9": 28.7,
+       "avgvol": 11302421
+      },
+      {
+       "symbol": "PDD",
+       "price": 87.42,
+       "chg": 0.23,
+       "vs_avg": -1.77,
+       "z": -0.17,
+       "high40": 78.23,
+       "vs_high": 11.75,
+       "name": "PDD Holdings Inc.",
        "rank": 7,
-       "hv9": 29.2,
-       "avgvol": 11136820
+       "hv9": 62.2,
+       "avgvol": 10217153
       },
       {
        "symbol": "HON",
-       "price": 226.025,
-       "chg": 0.54,
-       "vs_avg": -1.47,
-       "z": -0.23,
+       "price": 225.5,
+       "chg": 0.3,
+       "vs_avg": -1.7,
+       "z": -0.27,
        "high40": 211.92,
-       "vs_high": 6.66,
+       "vs_high": 6.41,
        "name": "Honeywell International Inc.",
        "rank": 8,
-       "hv9": 34.8,
-       "avgvol": 2776546
+       "hv9": 34.7,
+       "avgvol": 2815408
       },
       {
        "symbol": "AEP",
-       "price": 127.665,
-       "chg": 0.29,
-       "vs_avg": -0.93,
-       "z": -0.25,
+       "price": 127.76,
+       "chg": 0.36,
+       "vs_avg": -0.86,
+       "z": -0.23,
        "high40": 120.32,
-       "vs_high": 6.1,
+       "vs_high": 6.18,
        "name": "American Electric Power Company, Inc.",
        "rank": 9,
        "hv9": 18.9,
-       "avgvol": 3472784
-      },
-      {
-       "symbol": "CSGP",
-       "price": 33.76,
-       "chg": 3.43,
-       "vs_avg": -0.91,
-       "z": -0.05,
-       "high40": 27.55,
-       "vs_high": 22.54,
-       "name": "CoStar Group, Inc.",
-       "rank": 10,
-       "hv9": 58.0,
-       "avgvol": 4417942
+       "avgvol": 3511351
       },
       {
        "symbol": "PEP",
-       "price": 144.175,
-       "chg": 1.05,
-       "vs_avg": -0.49,
-       "z": -0.07,
+       "price": 144.21,
+       "chg": 1.07,
+       "vs_avg": -0.47,
+       "z": -0.06,
        "high40": 129.98,
-       "vs_high": 10.92,
+       "vs_high": 10.95,
        "name": "PepsiCo, Inc.",
-       "rank": 11,
+       "rank": 10,
        "hv9": 27.5,
-       "avgvol": 9347674
+       "avgvol": 9436148
+      },
+      {
+       "symbol": "CSGP",
+       "price": 34.02,
+       "chg": 4.23,
+       "vs_avg": -0.15,
+       "z": -0.01,
+       "high40": 27.55,
+       "vs_high": 23.48,
+       "name": "CoStar Group, Inc.",
+       "rank": 11,
+       "hv9": 59.0,
+       "avgvol": 4573195
       }
      ]
     }
    ],
-   "count": 34,
+   "count": 37,
    "cols": [
     {
      "k": "rank",
@@ -5324,105 +5363,75 @@
      "name": "Tesla (TSLA) Yield Shares Purpose ETF",
      "category": "Consumer Discretionary",
      "aum": 367694560,
-     "price": 16.51,
-     "chg": -0.48,
-     "vs_avg": -9.77,
-     "z": -0.7,
+     "price": 16.48,
+     "chg": -0.66,
+     "vs_avg": -9.94,
+     "z": -0.72,
      "high40": 15.35,
-     "vs_high": 7.56,
+     "vs_high": 7.36,
      "rank": 1,
      "hv9": 18.3,
-     "avgvol": 273795
-    },
-    {
-     "symbol": "RIT.TO",
-     "name": "CI Canadian REIT ETF",
-     "category": "Real Estate",
-     "aum": 367501100,
-     "price": 17.19,
-     "chg": 0.64,
-     "vs_avg": -1.61,
-     "z": -0.46,
-     "high40": 16.76,
-     "vs_high": 2.57,
-     "rank": 2,
-     "hv9": 11.6,
-     "avgvol": 9854
+     "avgvol": 276019
     },
     {
      "symbol": "XCB.TO",
      "name": "iShares Core Canadian Corporate Bond Index ETF",
      "category": "Investment Grade",
      "aum": 3964056000,
-     "price": 19.68,
-     "chg": -0.3,
-     "vs_avg": -1.55,
-     "z": -1.31,
+     "price": 19.69,
+     "chg": -0.25,
+     "vs_avg": -1.5,
+     "z": -1.27,
      "high40": 19.61,
-     "vs_high": 0.36,
-     "rank": 3,
+     "vs_high": 0.41,
+     "rank": 2,
      "hv9": 3.9,
-     "avgvol": 148447
+     "avgvol": 149515
+    },
+    {
+     "symbol": "RIT.TO",
+     "name": "CI Canadian REIT ETF",
+     "category": "Real Estate",
+     "aum": 367501100,
+     "price": 17.21,
+     "chg": 0.76,
+     "vs_avg": -1.5,
+     "z": -0.43,
+     "high40": 16.76,
+     "vs_high": 2.68,
+     "rank": 3,
+     "hv9": 11.8,
+     "avgvol": 9884
     },
     {
      "symbol": "ZWU.TO",
      "name": "BMO Covered Call Utilities Fund",
      "category": "Utilities",
      "aum": 2200581600,
-     "price": 11.5,
-     "chg": 0.35,
-     "vs_avg": -1.5,
-     "z": -0.43,
+     "price": 11.505,
+     "chg": 0.39,
+     "vs_avg": -1.46,
+     "z": -0.42,
      "high40": 10.79,
-     "vs_high": 6.58,
+     "vs_high": 6.63,
      "rank": 4,
      "hv9": 7.7,
-     "avgvol": 280688
-    },
-    {
-     "symbol": "FCIP.NE",
-     "name": "Fidelity All-in-One Conservative Income ETF",
-     "category": "Target Risk",
-     "aum": 282487330,
-     "price": 10.27,
-     "chg": -0.48,
-     "vs_avg": -1.44,
-     "z": -1.48,
-     "high40": 10.24,
-     "vs_high": 0.29,
-     "rank": 5,
-     "hv9": 3.3,
-     "avgvol": 31397
-    },
-    {
-     "symbol": "TINF.TO",
-     "name": "TD Active Global Infrastructure Equity ETF",
-     "category": "Theme",
-     "aum": 489346100,
-     "price": 25.34,
-     "chg": 0.06,
-     "vs_avg": -1.4,
-     "z": -0.55,
-     "high40": 24.55,
-     "vs_high": 3.22,
-     "rank": 6,
-     "hv9": 14.2,
-     "avgvol": 38055
+     "avgvol": 284791
     },
     {
      "symbol": "XRE.TO",
      "name": "iShares S&P/TSX Capped REIT Index ETF",
      "category": "Real Estate",
      "aum": 1021708000,
-     "price": 16.055,
-     "chg": 0.34,
-     "vs_avg": -1.28,
-     "z": -0.33,
+     "price": 16.05,
+     "chg": 0.31,
+     "vs_avg": -1.31,
+     "z": -0.34,
      "high40": 15.66,
-     "vs_high": 2.52,
-     "rank": 7,
+     "vs_high": 2.49,
+     "rank": 5,
      "hv9": 15.5,
-     "avgvol": 415060
+     "avgvol": 423011
     },
     {
      "symbol": "CBO.TO",
@@ -5435,69 +5444,99 @@
      "z": -1.7,
      "high40": 18.12,
      "vs_high": 0.11,
-     "rank": 8,
+     "rank": 6,
      "hv9": 3.2,
-     "avgvol": 13647
+     "avgvol": 13668
+    },
+    {
+     "symbol": "TINF.TO",
+     "name": "TD Active Global Infrastructure Equity ETF",
+     "category": "Theme",
+     "aum": 489346100,
+     "price": 25.38,
+     "chg": 0.22,
+     "vs_avg": -1.24,
+     "z": -0.49,
+     "high40": 24.55,
+     "vs_high": 3.38,
+     "rank": 7,
+     "hv9": 14.4,
+     "avgvol": 38636
     },
     {
      "symbol": "XLB.TO",
      "name": "iShares Core Canadian Long Term Bond Index ETF",
      "category": "Investment Grade",
      "aum": 820476350,
-     "price": 18.06,
-     "chg": 0.06,
-     "vs_avg": -1.09,
-     "z": -0.47,
+     "price": 18.05,
+     "chg": 0.0,
+     "vs_avg": -1.14,
+     "z": -0.49,
      "high40": 17.52,
-     "vs_high": 3.08,
-     "rank": 9,
+     "vs_high": 3.03,
+     "rank": 8,
      "hv9": 8.2,
-     "avgvol": 46614
+     "avgvol": 46992
+    },
+    {
+     "symbol": "FCIP.NE",
+     "name": "Fidelity All-in-One Conservative Income ETF",
+     "category": "Target Risk",
+     "aum": 282487330,
+     "price": 10.31,
+     "chg": -0.1,
+     "vs_avg": -1.06,
+     "z": -1.09,
+     "high40": 10.24,
+     "vs_high": 0.68,
+     "rank": 9,
+     "hv9": 2.5,
+     "avgvol": 31640
     },
     {
      "symbol": "HUTL.TO",
      "name": "Harvest Utilities Leaders Income ETF",
      "category": "Utilities",
      "aum": 566687500,
-     "price": 19.29,
-     "chg": 0.57,
-     "vs_avg": -1.0,
-     "z": -0.32,
+     "price": 19.28,
+     "chg": 0.52,
+     "vs_avg": -1.05,
+     "z": -0.34,
      "high40": 18.11,
-     "vs_high": 6.52,
+     "vs_high": 6.46,
      "rank": 10,
      "hv9": 15.2,
-     "avgvol": 27388
+     "avgvol": 27448
     },
     {
      "symbol": "XBB.TO",
      "name": "iShares Core Canadian Universe Bond Index ETF",
      "category": "Investment Grade",
      "aum": 10837173000,
-     "price": 27.66,
-     "chg": -0.11,
-     "vs_avg": -0.75,
-     "z": -0.6,
+     "price": 27.65,
+     "chg": -0.14,
+     "vs_avg": -0.78,
+     "z": -0.63,
      "high40": 27.24,
-     "vs_high": 1.54,
+     "vs_high": 1.51,
      "rank": 11,
-     "hv9": 4.6,
-     "avgvol": 204373
+     "hv9": 4.7,
+     "avgvol": 206601
     },
     {
      "symbol": "CLF.TO",
      "name": "iShares 1-5 Year Laddered Government Bond Index ETF",
      "category": "Investment Grade",
      "aum": 780943170,
-     "price": 17.435,
-     "chg": -0.09,
-     "vs_avg": -0.41,
-     "z": -0.71,
+     "price": 17.43,
+     "chg": -0.11,
+     "vs_avg": -0.44,
+     "z": -0.76,
      "high40": 17.29,
-     "vs_high": 0.84,
+     "vs_high": 0.81,
      "rank": 12,
      "hv9": 2.6,
-     "avgvol": 15612
+     "avgvol": 15642
     }
    ],
    "cols": [
@@ -5581,7 +5620,7 @@
     "title": "How funds are selected",
     "logic": [
      "A fund qualifies when all three hold on the latest close: (1) the close is below the 200-day average, the mean of the last 200 daily closes; (2) its z-score against that same window is below 0 (it follows from the first test and shows how stretched the fund is); (3) the close is above the intraday high of the bar 40 trading sessions ago.",
-     "Universe: the 379 TSX, NEO or CSE ETFs with at least C$200M of assets, long-only (no leveraged, inverse, single-stock or single-commodity funds) and 10-day average volume of at least 6,500. Bond funds are left out (176 excluded: any fund Barchart classes as fixed income, or whose name says bond, treasury, T-bill, TIPS, debenture, money market or aggregate). Sorted by how far the close sits below the 200-day average."
+     "Universe: the 379 TSX, NEO or CSE ETFs with at least C$200M of assets (country funds in the US list are included at any size), long-only (no leveraged, inverse, single-stock or single-commodity funds) and 10-day average volume of at least 6,500. Bond funds are left out (176 excluded: any fund Barchart classes as fixed income, or whose name says bond, treasury, T-bill, TIPS, debenture, money market or aggregate). Sorted by how far the close sits below the 200-day average."
     ]
    },
    "foot": "Yahoo Finance daily prices as of 2026-11-25 (unadjusted for distributions). Distribution-paying funds drop on ex-dates, which can pull them below their average without a price move in the holdings."
@@ -5594,420 +5633,450 @@
      "name": "Xtrackers International Real Estate ETF",
      "category": "Global Real Estate",
      "aum": 1042603840,
-     "price": 21.47,
-     "chg": 1.04,
-     "vs_avg": -5.85,
-     "z": -1.17,
+     "price": 21.505,
+     "chg": 1.2,
+     "vs_avg": -5.7,
+     "z": -1.14,
      "high40": 21.41,
-     "vs_high": 0.28,
+     "vs_high": 0.44,
      "rank": 1,
-     "hv9": 14.7,
-     "avgvol": 144127
+     "hv9": 15.2,
+     "avgvol": 144286
     },
     {
      "symbol": "VNQI",
      "name": "Vanguard Global ex-U.S. Real Estate Index Fund ETF Shares",
      "category": "Global Real Estate",
      "aum": 3189042700,
-     "price": 42.915,
-     "chg": 1.26,
-     "vs_avg": -5.29,
-     "z": -1.14,
+     "price": 42.94,
+     "chg": 1.32,
+     "vs_avg": -5.23,
+     "z": -1.13,
      "high40": 42.88,
-     "vs_high": 0.08,
+     "vs_high": 0.14,
      "rank": 2,
-     "hv9": 13.1,
-     "avgvol": 290355
-    },
-    {
-     "symbol": "IFRA",
-     "name": "iShares U.S. Infrastructure ETF",
-     "category": "Infrastructure",
-     "aum": 3897981700,
-     "price": 56.8102,
-     "chg": 1.0,
-     "vs_avg": -4.38,
-     "z": -1.18,
-     "high40": 55.83,
-     "vs_high": 1.76,
-     "rank": 3,
-     "hv9": 24.8,
-     "avgvol": 235365
+     "hv9": 13.2,
+     "avgvol": 295210
     },
     {
      "symbol": "UTES",
      "name": "Virtus Reaves Utilities ETF",
      "category": "Utilities",
      "aum": 1088370300,
-     "price": 75.25,
-     "chg": 0.2,
-     "vs_avg": -4.37,
-     "z": -0.92,
+     "price": 75.35,
+     "chg": 0.33,
+     "vs_avg": -4.25,
+     "z": -0.89,
      "high40": 71.25,
-     "vs_high": 5.61,
-     "rank": 4,
+     "vs_high": 5.75,
+     "rank": 3,
      "hv9": 27.4,
-     "avgvol": 196995
+     "avgvol": 202034
+    },
+    {
+     "symbol": "IFRA",
+     "name": "iShares U.S. Infrastructure ETF",
+     "category": "Infrastructure",
+     "aum": 3897981700,
+     "price": 56.92,
+     "chg": 1.19,
+     "vs_avg": -4.2,
+     "z": -1.13,
+     "high40": 55.83,
+     "vs_high": 1.95,
+     "rank": 4,
+     "hv9": 24.9,
+     "avgvol": 241757
     },
     {
      "symbol": "EWW",
      "name": "iShares MSCI Mexico ETF",
      "category": "Focused Region",
      "aum": 1486517400,
-     "price": 73.33,
-     "chg": 2.0,
-     "vs_avg": -3.54,
-     "z": -1.09,
+     "price": 73.44,
+     "chg": 2.16,
+     "vs_avg": -3.39,
+     "z": -1.04,
      "high40": 72.51,
-     "vs_high": 1.13,
+     "vs_high": 1.28,
      "rank": 5,
-     "hv9": 27.7,
-     "avgvol": 1365071
+     "hv9": 27.9,
+     "avgvol": 1384941
     },
     {
      "symbol": "VAW",
      "name": "Vanguard Materials Index Fund ETF Shares",
      "category": "Natural Resources",
      "aum": 2785055500,
-     "price": 222.1569,
-     "chg": 2.17,
-     "vs_avg": -3.21,
-     "z": -1.08,
+     "price": 221.86,
+     "chg": 2.03,
+     "vs_avg": -3.34,
+     "z": -1.13,
      "high40": 221.77,
-     "vs_high": 0.17,
+     "vs_high": 0.04,
      "rank": 6,
-     "hv9": 33.4,
-     "avgvol": 97807
+     "hv9": 33.1,
+     "avgvol": 98656
+    },
+    {
+     "symbol": "FLMX",
+     "name": "Franklin FTSE Mexico ETF",
+     "category": "Focused Region",
+     "aum": 81905300,
+     "price": 35.895,
+     "chg": 2.01,
+     "vs_avg": -3.2,
+     "z": -0.93,
+     "high40": 35.215,
+     "vs_high": 1.93,
+     "rank": 7,
+     "hv9": 27.2,
+     "avgvol": 7512
     },
     {
      "symbol": "FMAT",
      "name": "Fidelity MSCI Materials Index ETF",
      "category": "Natural Resources",
      "aum": 549340900,
-     "price": 56.925,
-     "chg": 2.33,
-     "vs_avg": -3.03,
+     "price": 56.915,
+     "chg": 2.31,
+     "vs_avg": -3.05,
      "z": -1.01,
      "high40": 56.59,
-     "vs_high": 0.59,
-     "rank": 7,
-     "hv9": 32.8,
-     "avgvol": 51055
+     "vs_high": 0.57,
+     "rank": 8,
+     "hv9": 32.3,
+     "avgvol": 52135
     },
     {
      "symbol": "SDVD",
      "name": "FT Vest SMID Rising Dividend Achievers Target Income ETF",
      "category": "Derivative Income",
      "aum": 838736900,
-     "price": 21.96,
-     "chg": 0.73,
-     "vs_avg": -2.98,
-     "z": -1.11,
+     "price": 22.02,
+     "chg": 1.01,
+     "vs_avg": -2.71,
+     "z": -1.01,
      "high40": 21.8,
-     "vs_high": 0.73,
-     "rank": 8,
-     "hv9": 23.7,
-     "avgvol": 540183
+     "vs_high": 1.01,
+     "rank": 9,
+     "hv9": 24.0,
+     "avgvol": 545812
     },
     {
      "symbol": "OMAH",
      "name": "VistaShares Target 15 Berkshire Select Income ETF",
      "category": "Derivative Income",
      "aum": 1087381500,
-     "price": 17.915,
-     "chg": 0.59,
-     "vs_avg": -2.59,
-     "z": -1.33,
+     "price": 17.91,
+     "chg": 0.56,
+     "vs_avg": -2.62,
+     "z": -1.34,
      "high40": 17.66,
-     "vs_high": 1.44,
-     "rank": 9,
-     "hv9": 12.0,
-     "avgvol": 1176452
-    },
-    {
-     "symbol": "EIPI",
-     "name": "FT Energy Income Partners Enhanced Income ETF",
-     "category": "Derivative Income",
-     "aum": 1069731200,
-     "price": 21.7701,
-     "chg": 0.55,
-     "vs_avg": -2.21,
-     "z": -1.4,
-     "high40": 21.56,
-     "vs_high": 0.97,
+     "vs_high": 1.42,
      "rank": 10,
-     "hv9": 17.0,
-     "avgvol": 68231
+     "hv9": 11.9,
+     "avgvol": 1186605
     },
     {
      "symbol": "IAT",
      "name": "iShares U.S. Regional Banks ETF",
      "category": "Financial",
      "aum": 594499260,
-     "price": 57.89,
-     "chg": 0.68,
-     "vs_avg": -2.17,
-     "z": -0.39,
+     "price": 57.98,
+     "chg": 0.83,
+     "vs_avg": -2.02,
+     "z": -0.36,
      "high40": 57.82,
-     "vs_high": 0.12,
+     "vs_high": 0.28,
      "rank": 11,
-     "hv9": 24.8,
-     "avgvol": 727594
+     "hv9": 24.9,
+     "avgvol": 774399
     },
     {
-     "symbol": "VPU",
-     "name": "Vanguard Utilities Index Fund ETF Shares",
-     "category": "Utilities",
-     "aum": 7971023000,
-     "price": 188.425,
-     "chg": 0.64,
-     "vs_avg": -1.74,
-     "z": -0.41,
-     "high40": 172.99,
-     "vs_high": 8.92,
+     "symbol": "EIPI",
+     "name": "FT Energy Income Partners Enhanced Income ETF",
+     "category": "Derivative Income",
+     "aum": 1069731200,
+     "price": 21.82,
+     "chg": 0.79,
+     "vs_avg": -1.98,
+     "z": -1.26,
+     "high40": 21.56,
+     "vs_high": 1.21,
      "rank": 12,
-     "hv9": 15.6,
-     "avgvol": 267650
+     "hv9": 17.2,
+     "avgvol": 68617
     },
     {
      "symbol": "FUTY",
      "name": "Fidelity MSCI Utilities Index ETF",
      "category": "Utilities",
      "aum": 2020273300,
-     "price": 56.24,
-     "chg": 0.63,
-     "vs_avg": -1.7,
-     "z": -0.4,
+     "price": 56.275,
+     "chg": 0.69,
+     "vs_avg": -1.64,
+     "z": -0.38,
      "high40": 51.64,
-     "vs_high": 8.91,
+     "vs_high": 8.98,
      "rank": 13,
      "hv9": 15.3,
-     "avgvol": 368196
+     "avgvol": 376973
+    },
+    {
+     "symbol": "VPU",
+     "name": "Vanguard Utilities Index Fund ETF Shares",
+     "category": "Utilities",
+     "aum": 7971023000,
+     "price": 188.69,
+     "chg": 0.78,
+     "vs_avg": -1.6,
+     "z": -0.38,
+     "high40": 172.99,
+     "vs_high": 9.08,
+     "rank": 14,
+     "hv9": 15.6,
+     "avgvol": 271850
     },
     {
      "symbol": "XLU",
      "name": "State Street Utilities Select Sector SPDR ETF",
      "category": "Utilities",
      "aum": 23216558000,
-     "price": 43.675,
-     "chg": 0.63,
-     "vs_avg": -1.49,
-     "z": -0.34,
+     "price": 43.6903,
+     "chg": 0.67,
+     "vs_avg": -1.45,
+     "z": -0.33,
      "high40": 39.94,
-     "vs_high": 9.35,
-     "rank": 14,
-     "hv9": 15.5,
-     "avgvol": 22923878
+     "vs_high": 9.39,
+     "rank": 15,
+     "hv9": 15.4,
+     "avgvol": 23349174
+    },
+    {
+     "symbol": "KBE",
+     "name": "State Street SPDR S&P Bank ETF",
+     "category": "Financial",
+     "aum": 1322621000,
+     "price": 64.21,
+     "chg": 0.53,
+     "vs_avg": -1.42,
+     "z": -0.28,
+     "high40": 64.14,
+     "vs_high": 0.11,
+     "rank": 16,
+     "hv9": 20.2,
+     "avgvol": 1952567
+    },
+    {
+     "symbol": "QAT",
+     "name": "iShares MSCI Qatar ETF",
+     "category": "Focused Region",
+     "aum": 64521190,
+     "price": 17.74,
+     "chg": 0.06,
+     "vs_avg": -1.3,
+     "z": -0.21,
+     "high40": 16.33,
+     "vs_high": 8.63,
+     "rank": 17,
+     "hv9": 8.6,
+     "avgvol": 11381
     },
     {
      "symbol": "TPYP",
      "name": "Tortoise North American Pipeline Fund",
      "category": "Energy Limited Partnership",
      "aum": 856909900,
-     "price": 41.64,
-     "chg": 1.26,
-     "vs_avg": -1.44,
-     "z": -0.62,
+     "price": 41.715,
+     "chg": 1.45,
+     "vs_avg": -1.26,
+     "z": -0.54,
      "high40": 40.27,
-     "vs_high": 3.4,
-     "rank": 15,
-     "hv9": 17.0,
-     "avgvol": 33778
+     "vs_high": 3.59,
+     "rank": 18,
+     "hv9": 17.5,
+     "avgvol": 34090
     },
     {
      "symbol": "NFRA",
      "name": "Northern Trust STOXX Global Broad Infrastructure ETF",
      "category": "Infrastructure",
      "aum": 2969825300,
-     "price": 64.12,
-     "chg": 0.91,
-     "vs_avg": -1.29,
-     "z": -0.76,
+     "price": 64.22,
+     "chg": 1.07,
+     "vs_avg": -1.13,
+     "z": -0.67,
      "high40": 63.0,
-     "vs_high": 1.78,
-     "rank": 16,
-     "hv9": 16.0,
-     "avgvol": 43743
+     "vs_high": 1.94,
+     "rank": 19,
+     "hv9": 16.2,
+     "avgvol": 44114
     },
     {
      "symbol": "RSPN",
      "name": "Invesco S&P 500 Equal Weight Industrials ETF",
      "category": "Industrials",
      "aum": 742768300,
-     "price": 60.37,
-     "chg": 1.04,
-     "vs_avg": -1.12,
-     "z": -0.35,
+     "price": 60.43,
+     "chg": 1.14,
+     "vs_avg": -1.02,
+     "z": -0.32,
      "high40": 58.77,
-     "vs_high": 2.72,
-     "rank": 17,
-     "hv9": 26.5,
-     "avgvol": 397539
-    },
-    {
-     "symbol": "RSPU",
-     "name": "Invesco S&P 500 Equal Weight Utilities ETF",
-     "category": "Utilities",
-     "aum": 539411100,
-     "price": 77.925,
-     "chg": 0.68,
-     "vs_avg": -0.9,
-     "z": -0.21,
-     "high40": 70.69,
-     "vs_high": 10.23,
-     "rank": 18,
-     "hv9": 15.9,
-     "avgvol": 73334
+     "vs_high": 2.82,
+     "rank": 20,
+     "hv9": 26.7,
+     "avgvol": 409416
     },
     {
      "symbol": "PID",
      "name": "Invesco International Dividend Achievers ETF",
      "category": "Foreign Large Value",
      "aum": 843523140,
-     "price": 22.4274,
-     "chg": 1.21,
-     "vs_avg": -0.86,
-     "z": -0.36,
+     "price": 22.42,
+     "chg": 1.17,
+     "vs_avg": -0.89,
+     "z": -0.38,
      "high40": 21.5,
-     "vs_high": 4.31,
-     "rank": 19,
-     "hv9": 18.4,
-     "avgvol": 56741
+     "vs_high": 4.28,
+     "rank": 21,
+     "hv9": 18.3,
+     "avgvol": 57085
     },
     {
      "symbol": "RSPA",
      "name": "Invesco S&P 500 Equal Weight Income Advantage ETF",
      "category": "Derivative Income",
      "aum": 1279696500,
-     "price": 52.26,
-     "chg": 1.01,
-     "vs_avg": -0.81,
-     "z": -0.36,
+     "price": 52.24,
+     "chg": 0.97,
+     "vs_avg": -0.85,
+     "z": -0.38,
      "high40": 52.04,
-     "vs_high": 0.42,
-     "rank": 20,
-     "hv9": 18.0,
-     "avgvol": 401465
-    },
-    {
-     "symbol": "EQAL",
-     "name": "Invesco Russell 1000 Equal Weight ETF",
-     "category": "Mid-Cap Blend",
-     "aum": 818731260,
-     "price": 57.93,
-     "chg": 1.1,
-     "vs_avg": -0.77,
-     "z": -0.27,
-     "high40": 57.86,
-     "vs_high": 0.12,
-     "rank": 21,
-     "hv9": 24.4,
-     "avgvol": 137890
-    },
-    {
-     "symbol": "AUSF",
-     "name": "Global X Adaptive U.S. Factor ETF",
-     "category": "Mid-Cap Value",
-     "aum": 845692400,
-     "price": 49.63,
-     "chg": -0.26,
-     "vs_avg": -0.75,
-     "z": -0.29,
-     "high40": 49.16,
-     "vs_high": 0.96,
+     "vs_high": 0.38,
      "rank": 22,
-     "hv9": 28.2,
-     "avgvol": 47114
+     "hv9": 18.0,
+     "avgvol": 405125
     },
     {
-     "symbol": "IGF",
-     "name": "iShares Global Infrastructure ETF",
-     "category": "Infrastructure",
-     "aum": 10575780000,
-     "price": 65.719,
-     "chg": 0.84,
-     "vs_avg": -0.64,
-     "z": -0.25,
-     "high40": 62.22,
-     "vs_high": 5.62,
+     "symbol": "RSPU",
+     "name": "Invesco S&P 500 Equal Weight Utilities ETF",
+     "category": "Utilities",
+     "aum": 539411100,
+     "price": 77.97,
+     "chg": 0.74,
+     "vs_avg": -0.84,
+     "z": -0.2,
+     "high40": 70.69,
+     "vs_high": 10.3,
      "rank": 23,
-     "hv9": 13.6,
-     "avgvol": 919447
+     "hv9": 16.0,
+     "avgvol": 74691
     },
     {
      "symbol": "GII",
      "name": "State Street SPDR S&P Global Infrastructure ETF",
      "category": "Infrastructure",
      "aum": 935729000,
-     "price": 74.655,
-     "chg": 0.91,
+     "price": 74.66,
+     "chg": 0.92,
      "vs_avg": -0.64,
      "z": -0.25,
      "high40": 70.58,
-     "vs_high": 5.77,
+     "vs_high": 5.78,
      "rank": 24,
-     "hv9": 14.1,
-     "avgvol": 104558
+     "hv9": 14.2,
+     "avgvol": 104883
     },
     {
      "symbol": "NUSC",
      "name": "Nuveen ESG Small-Cap ETF",
      "category": "Small Blend",
      "aum": 1199268000,
-     "price": 49.09,
-     "chg": 0.84,
-     "vs_avg": -0.62,
+     "price": 49.085,
+     "chg": 0.83,
+     "vs_avg": -0.63,
      "z": -0.15,
      "high40": 48.92,
-     "vs_high": 0.35,
+     "vs_high": 0.34,
      "rank": 25,
      "hv9": 28.5,
-     "avgvol": 57416
+     "avgvol": 58095
     },
     {
-     "symbol": "IDU",
-     "name": "iShares U.S. Utilities ETF",
-     "category": "Utilities",
-     "aum": 1349246200,
-     "price": 111.86,
-     "chg": 0.59,
-     "vs_avg": -0.58,
-     "z": -0.15,
-     "high40": 101.81,
-     "vs_high": 9.87,
+     "symbol": "EQAL",
+     "name": "Invesco Russell 1000 Equal Weight ETF",
+     "category": "Mid-Cap Blend",
+     "aum": 818731260,
+     "price": 58.05,
+     "chg": 1.31,
+     "vs_avg": -0.57,
+     "z": -0.2,
+     "high40": 57.86,
+     "vs_high": 0.33,
      "rank": 26,
-     "hv9": 15.2,
-     "avgvol": 122872
+     "hv9": 24.6,
+     "avgvol": 139865
     },
     {
      "symbol": "OSCV",
      "name": "Opus Small Cap Value Plus ETF",
      "category": "Small Blend",
      "aum": 609761300,
-     "price": 40.715,
-     "chg": 0.81,
-     "vs_avg": -0.56,
+     "price": 40.7201,
+     "chg": 0.82,
+     "vs_avg": -0.55,
      "z": -0.21,
      "high40": 39.66,
-     "vs_high": 2.66,
+     "vs_high": 2.67,
      "rank": 27,
-     "hv9": 19.6,
-     "avgvol": 37684
+     "hv9": 19.7,
+     "avgvol": 39247
+    },
+    {
+     "symbol": "IGF",
+     "name": "iShares Global Infrastructure ETF",
+     "category": "Infrastructure",
+     "aum": 10575780000,
+     "price": 65.79,
+     "chg": 0.95,
+     "vs_avg": -0.53,
+     "z": -0.21,
+     "high40": 62.22,
+     "vs_high": 5.74,
+     "rank": 28,
+     "hv9": 13.7,
+     "avgvol": 931234
+    },
+    {
+     "symbol": "IDU",
+     "name": "iShares U.S. Utilities ETF",
+     "category": "Utilities",
+     "aum": 1349246200,
+     "price": 111.93,
+     "chg": 0.66,
+     "vs_avg": -0.52,
+     "z": -0.13,
+     "high40": 101.81,
+     "vs_high": 9.94,
+     "rank": 29,
+     "hv9": 15.1,
+     "avgvol": 124947
     },
     {
      "symbol": "SMDV",
      "name": "ProShares S&P SmallCap 600 Dividend Aristocrats ETF",
      "category": "Small Value",
      "aum": 659088060,
-     "price": 73.41,
-     "chg": 0.55,
-     "vs_avg": -0.47,
-     "z": -0.12,
+     "price": 73.385,
+     "chg": 0.51,
+     "vs_avg": -0.5,
+     "z": -0.13,
      "high40": 72.57,
-     "vs_high": 1.16,
-     "rank": 28,
+     "vs_high": 1.12,
+     "rank": 30,
      "hv9": 20.5,
-     "avgvol": 153471
+     "avgvol": 154132
     },
     {
      "symbol": "FNX",
@@ -6020,159 +6089,219 @@
      "z": -0.13,
      "high40": 136.67,
      "vs_high": 1.17,
-     "rank": 29,
-     "hv9": 26.6,
-     "avgvol": 20141
-    },
-    {
-     "symbol": "SDVY",
-     "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
-     "category": "Small Value",
-     "aum": 10655673000,
-     "price": 41.9,
-     "chg": 0.96,
-     "vs_avg": -0.34,
-     "z": -0.11,
-     "high40": 41.02,
-     "vs_high": 2.15,
-     "rank": 30,
-     "hv9": 22.8,
-     "avgvol": 887778
-    },
-    {
-     "symbol": "IYT",
-     "name": "iShares U.S. Transportation ETF",
-     "category": "Industrials",
-     "aum": 1920119200,
-     "price": 81.795,
-     "chg": 1.62,
-     "vs_avg": -0.31,
-     "z": -0.06,
-     "high40": 79.75,
-     "vs_high": 2.56,
      "rank": 31,
-     "hv9": 28.1,
-     "avgvol": 748208
+     "hv9": 26.6,
+     "avgvol": 20211
     },
     {
-     "symbol": "RWO",
-     "name": "State Street SPDR Dow Jones Global Real Estate ETF",
-     "category": "Global Real Estate",
-     "aum": 1247049700,
-     "price": 48.69,
-     "chg": 1.16,
-     "vs_avg": -0.24,
-     "z": -0.08,
-     "high40": 47.04,
-     "vs_high": 3.51,
+     "symbol": "AUSF",
+     "name": "Global X Adaptive U.S. Factor ETF",
+     "category": "Mid-Cap Value",
+     "aum": 845692400,
+     "price": 49.78,
+     "chg": 0.04,
+     "vs_avg": -0.45,
+     "z": -0.17,
+     "high40": 49.16,
+     "vs_high": 1.26,
      "rank": 32,
-     "hv9": 15.2,
-     "avgvol": 96347
+     "hv9": 28.4,
+     "avgvol": 48256
     },
     {
-     "symbol": "EMLP",
-     "name": "First Trust North American Energy Infrastructure Fund",
-     "category": "Energy Limited Partnership",
-     "aum": 4071434500,
-     "price": 43.4299,
-     "chg": 0.81,
-     "vs_avg": -0.24,
-     "z": -0.15,
-     "high40": 41.44,
-     "vs_high": 4.8,
+     "symbol": "EWK",
+     "name": "iShares MSCI Belgium ETF",
+     "category": "Focused Region",
+     "aum": 220438510,
+     "price": 26.22,
+     "chg": -0.3,
+     "vs_avg": -0.37,
+     "z": -0.1,
+     "high40": 26.15,
+     "vs_high": 0.27,
      "rank": 33,
-     "hv9": 12.5,
-     "avgvol": 216116
+     "hv9": 18.2,
+     "avgvol": 99711
+    },
+    {
+     "symbol": "JHMM",
+     "name": "John Hancock Multifactor Mid Cap ETF",
+     "category": "Mid-Cap Blend",
+     "aum": 5925650400,
+     "price": 72.175,
+     "chg": 1.11,
+     "vs_avg": -0.36,
+     "z": -0.11,
+     "high40": 72.12,
+     "vs_high": 0.08,
+     "rank": 34,
+     "hv9": 27.9,
+     "avgvol": 481896
     },
     {
      "symbol": "AVRE",
      "name": "Avantis Real Estate ETF",
      "category": "Global Real Estate",
      "aum": 859786100,
-     "price": 46.66,
-     "chg": 1.11,
-     "vs_avg": -0.22,
-     "z": -0.07,
+     "price": 46.6,
+     "chg": 0.98,
+     "vs_avg": -0.35,
+     "z": -0.11,
      "high40": 44.85,
-     "vs_high": 4.04,
-     "rank": 34,
-     "hv9": null,
-     "avgvol": null
+     "vs_high": 3.9,
+     "rank": 35,
+     "hv9": 15.9,
+     "avgvol": 54964
     },
     {
      "symbol": "XHB",
      "name": "State Street SPDR S&P Homebuilders ETF",
      "category": "Consumer Cyclical",
      "aum": 1438312800,
-     "price": 103.89,
-     "chg": 2.58,
-     "vs_avg": -0.22,
+     "price": 103.855,
+     "chg": 2.54,
+     "vs_avg": -0.26,
      "z": -0.04,
      "high40": 97.82,
-     "vs_high": 6.21,
-     "rank": 35,
-     "hv9": 33.7,
-     "avgvol": 1901153
+     "vs_high": 6.17,
+     "rank": 36,
+     "hv9": 33.6,
+     "avgvol": 1943874
     },
     {
      "symbol": "REET",
      "name": "iShares Global REIT ETF",
      "category": "Global Real Estate",
      "aum": 4755248000,
-     "price": 26.935,
-     "chg": 0.88,
-     "vs_avg": -0.19,
-     "z": -0.06,
+     "price": 26.925,
+     "chg": 0.84,
+     "vs_avg": -0.23,
+     "z": -0.07,
      "high40": 26.08,
-     "vs_high": 3.28,
-     "rank": 36,
-     "hv9": 15.8,
-     "avgvol": 2585662
-    },
-    {
-     "symbol": "SCHY",
-     "name": "Schwab International Dividend Equity ETF",
-     "category": "Foreign Large Value",
-     "aum": 2662986000,
-     "price": 32.43,
-     "chg": 1.12,
-     "vs_avg": -0.18,
-     "z": -0.08,
-     "high40": 31.67,
-     "vs_high": 2.4,
+     "vs_high": 3.24,
      "rank": 37,
-     "hv9": 17.0,
-     "avgvol": 575640
+     "hv9": 15.6,
+     "avgvol": 2625191
     },
     {
      "symbol": "DFGR",
      "name": "Dimensional Global Real Estate ETF",
      "category": "Global Real Estate",
      "aum": 3881359600,
-     "price": 28.425,
-     "chg": 0.91,
-     "vs_avg": -0.15,
-     "z": -0.05,
+     "price": 28.405,
+     "chg": 0.83,
+     "vs_avg": -0.22,
+     "z": -0.07,
      "high40": 27.416,
-     "vs_high": 3.68,
+     "vs_high": 3.61,
      "rank": 38,
-     "hv9": 15.2,
-     "avgvol": 664462
+     "hv9": 15.0,
+     "avgvol": 685933
     },
     {
-     "symbol": "AVMV",
-     "name": "Avantis U.S. Mid Cap Value ETF",
-     "category": "Mid-Cap Value",
-     "aum": 792138100,
-     "price": 78.669,
-     "chg": 1.0,
-     "vs_avg": -0.14,
+     "symbol": "IYT",
+     "name": "iShares U.S. Transportation ETF",
+     "category": "Industrials",
+     "aum": 1920119200,
+     "price": 81.8755,
+     "chg": 1.72,
+     "vs_avg": -0.21,
      "z": -0.04,
-     "high40": 77.34,
-     "vs_high": 1.72,
+     "high40": 79.75,
+     "vs_high": 2.67,
      "rank": 39,
-     "hv9": 22.8,
-     "avgvol": 46461
+     "hv9": 28.2,
+     "avgvol": 762108
+    },
+    {
+     "symbol": "EMLP",
+     "name": "First Trust North American Energy Infrastructure Fund",
+     "category": "Energy Limited Partnership",
+     "aum": 4071434500,
+     "price": 43.445,
+     "chg": 0.85,
+     "vs_avg": -0.21,
+     "z": -0.12,
+     "high40": 41.44,
+     "vs_high": 4.84,
+     "rank": 40,
+     "hv9": 12.2,
+     "avgvol": 217300
+    },
+    {
+     "symbol": "SCHY",
+     "name": "Schwab International Dividend Equity ETF",
+     "category": "Foreign Large Value",
+     "aum": 2662986000,
+     "price": 32.45,
+     "chg": 1.18,
+     "vs_avg": -0.12,
+     "z": -0.05,
+     "high40": 31.67,
+     "vs_high": 2.46,
+     "rank": 41,
+     "hv9": 17.1,
+     "avgvol": 581561
+    },
+    {
+     "symbol": "SDVY",
+     "name": "First Trust SMID Cap Rising Dividend Achievers ETF",
+     "category": "Small Value",
+     "aum": 10655673000,
+     "price": 42.0,
+     "chg": 1.2,
+     "vs_avg": -0.1,
+     "z": -0.03,
+     "high40": 41.02,
+     "vs_high": 2.39,
+     "rank": 42,
+     "hv9": 23.2,
+     "avgvol": 907808
+    },
+    {
+     "symbol": "EIPX",
+     "name": "FT Energy Income Partners Strategy ETF",
+     "category": "Equity Energy",
+     "aum": 554155100,
+     "price": 32.24,
+     "chg": 0.69,
+     "vs_avg": -0.07,
+     "z": -0.03,
+     "high40": 31.68,
+     "vs_high": 1.77,
+     "rank": 43,
+     "hv9": 14.6,
+     "avgvol": 19877
+    },
+    {
+     "symbol": "JHSC",
+     "name": "John Hancock Multifactor Small Cap ETF",
+     "category": "Small Blend",
+     "aum": 675581000,
+     "price": 46.62,
+     "chg": 0.97,
+     "vs_avg": -0.05,
+     "z": -0.01,
+     "high40": 45.91,
+     "vs_high": 1.55,
+     "rank": 44,
+     "hv9": 27.0,
+     "avgvol": 21083
+    },
+    {
+     "symbol": "RWO",
+     "name": "State Street SPDR Dow Jones Global Real Estate ETF",
+     "category": "Global Real Estate",
+     "aum": 1247049700,
+     "price": 48.8075,
+     "chg": 1.41,
+     "vs_avg": -0.0,
+     "z": -0.0,
+     "high40": 47.04,
+     "vs_high": 3.76,
+     "rank": 45,
+     "hv9": 15.8,
+     "avgvol": 96769
     }
    ],
    "cols": [
@@ -6256,7 +6385,7 @@
     "title": "How funds are selected",
     "logic": [
      "A fund qualifies when all three hold on the latest close: (1) the close is below the 200-day average, the mean of the last 200 daily closes; (2) its z-score against that same window is below 0 (it follows from the first test and shows how stretched the fund is); (3) the close is above the intraday high of the bar 40 trading sessions ago.",
-     "Universe: the 1002 US-exchange ETFs with at least $500M of assets, long-only (no leveraged, inverse, single-stock or single-commodity funds) and 10-day average volume of at least 6,500. Bond funds are left out (393 excluded: any fund Barchart classes as fixed income, or whose name says bond, treasury, T-bill, TIPS, debenture, money market or aggregate). Sorted by how far the close sits below the 200-day average."
+     "Universe: the 1107 US-exchange ETFs with at least $500M of assets (country funds in the US list are included at any size), long-only (no leveraged, inverse, single-stock or single-commodity funds) and 10-day average volume of at least 6,500. Bond funds are left out (393 excluded: any fund Barchart classes as fixed income, or whose name says bond, treasury, T-bill, TIPS, debenture, money market or aggregate). Sorted by how far the close sits below the 200-day average."
     ]
    },
    "foot": "Yahoo Finance daily prices as of 2026-11-25 (unadjusted for distributions). Distribution-paying funds drop on ex-dates, which can pull them below their average without a price move in the holdings."
