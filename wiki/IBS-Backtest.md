@@ -59,8 +59,8 @@ Current index members are used, so stocks that left the index are missing (survi
 ## Findings
 
 - A low entry (IBS below 0.05 to 0.10) and a high exit (above 0.9 to 0.95) give the best risk-adjusted results on both markets. Raising the entry cutoff toward 0.5 steadily lowers Sharpe and Calmar.
-- Every setting at or below 0.20 beats buy-and-hold on Sharpe and Calmar over 20 years in both markets. The advantage is mostly lower drawdown (about -10% to -20% against -37% to -44%), not higher return.
-- The strategy earns less than buy-and-hold in total return at the strictest entries, because it holds cash much of the time. Looser entries (below 0.20 to 0.30) with exit above 0.9 get close to buy-and-hold's CAGR with about half the drawdown.
+- Every cell with entry at or below 0.20 beats buy-and-hold on Sharpe and Calmar over 20 years in both markets, with one exception: TSX 60 at x<0.20, y>0.7 (Sharpe 1.04 against 1.05). The advantage is mostly lower drawdown (-6.5% to -25.2% across those cells, against -37.0% on the TSX 60 and -43.7% on the Dow 30), not higher return.
+- The strategy earns less than buy-and-hold in total return at the strictest entries, because it holds cash much of the time. On the Dow 30, looser entries (below 0.20 to 0.50) with exit above 0.9 get within 0.5 to 1.6 points of buy-and-hold's CAGR with about half the drawdown (44% to 51% of it). On the TSX 60 they give up 2.1 to 2.6 points of CAGR and keep 56% to 74% of the drawdown.
 - The edge fades. On the TSX 60 the first half scored Sharpe 1.4 to 1.9 and the second half 0.8 to 1.2, which only matches buy-and-hold (1.15). The Dow 30 held up better in the second half (Sharpe 1.26 to 1.33 at x<0.10, y>0.9 to 0.95).
 
 ## Caveats
@@ -69,7 +69,12 @@ Current index members are used, so stocks that left the index are missing (survi
 - Fills are assumed at the signal-day close, which is optimistic.
 - The grid has 24 cells, and the best-looking cell in one half is often not the best in the other half. Read the region, not one cell.
 - No stops, position limits, taxes or financing. Cash earns nothing in the model.
-- The 20-year window includes 2008-2009, which strongly rewards a strategy that holds cash and buys washed-out closes.
+- The 20-year window includes 2008-2009. I did not test how much of the result comes from those years.
+- Each portfolio averages over every stock in the list from the first day, including stocks that had not yet listed, whose slots earn zero. Only 29 of the 30 Dow stocks and 45 of the 57 TSX stocks have the full 20 years (at least 5,000 bars), so the rest dilute the early years. A later workbook run that counts only listed stocks moved TSX 60 CAGR from 10.6% to 11.2% and the Nasdaq-100 worst drawdown from -19.5% to -23.3% at x<0.10, y>0.9.
+
+## Audit (2026-11-27)
+
+I reran the 20-year grid and compared every row of the two 20-year tables with the rerun. All 15 rows reproduce within rounding (two CAGR cells differ by 0.1 point because Yahoo's adjusted prices changed slightly). The 10-year table was not rerun, and it charged costs on exits only. The corrections above came from the audit. Nasdaq-100 and S&P 100 results and the walk-forward test are not on this page.
 
 ## Reproduce
 
